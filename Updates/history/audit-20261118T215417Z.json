@@ -1,0 +1,2373 @@
+{
+  "auditor": "Al-Hakim-Cyber-Security/Scripts/audit_catalog.py",
+  "checked_at": "2026-11-18T21:54:17Z",
+  "counts": {
+    "catalog_records": 63,
+    "unique_links": 175,
+    "github_repositories": 43,
+    "broken_or_unreachable_links": 2,
+    "restricted_links": 0,
+    "redirected_links": 23,
+    "archived_repositories": 2,
+    "unavailable_repository_metadata": 0
+  },
+  "link_checks": [
+    {
+      "url": "https://attack.mitre.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://attack.mitre.org/",
+      "error": ""
+    },
+    {
+      "url": "https://attack.mitre.org/resources/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://attack.mitre.org/resources/",
+      "error": ""
+    },
+    {
+      "url": "https://attack.mitre.org/resources/attack-data-and-tools/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://attack.mitre.org/resources/attack-data-and-tools/",
+      "error": ""
+    },
+    {
+      "url": "https://blackarch.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://blackarch.org/",
+      "error": ""
+    },
+    {
+      "url": "https://blackarch.org/download.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://blackarch.org/download.html",
+      "error": ""
+    },
+    {
+      "url": "https://blackarch.org/guide.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://blackarch.org/guide.html",
+      "error": ""
+    },
+    {
+      "url": "https://capev2.readthedocs.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://capev2.readthedocs.io/en/latest/",
+      "error": ""
+    },
+    {
+      "url": "https://cirt.net/Nikto2",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "http://cirt.net/nikto/",
+      "error": ""
+    },
+    {
+      "url": "https://cisofy.com/documentation/lynis/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://cisofy.com/documentation/lynis/",
+      "error": ""
+    },
+    {
+      "url": "https://cisofy.com/lynis/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://cisofy.com/lynis/",
+      "error": ""
+    },
+    {
+      "url": "https://cuckoo.readthedocs.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://cuckoo.readthedocs.io/en/latest/",
+      "error": ""
+    },
+    {
+      "url": "https://cuckoosandbox.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://cuckoosandbox.org/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.maltego.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.maltego.com/en/support/home",
+      "error": ""
+    },
+    {
+      "url": "https://docs.metasploit.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.metasploit.com/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.openssl.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.openssl.org/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.projectdiscovery.io/tools/nuclei/overview",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.projectdiscovery.io/opensource/nuclei/overview",
+      "error": ""
+    },
+    {
+      "url": "https://docs.remnux.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.remnux.org/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.securityonion.net/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.securityonion.net/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.suricata.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.suricata.io/en/suricata-8.0.8/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm",
+      "error": ""
+    },
+    {
+      "url": "https://docs.velociraptor.app/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.velociraptor.app/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.virustotal.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.virustotal.com/",
+      "error": ""
+    },
+    {
+      "url": "https://docs.zeek.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://docs.zeek.org/en/current/",
+      "error": ""
+    },
+    {
+      "url": "https://garak.ai/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://garak.ai/",
+      "error": ""
+    },
+    {
+      "url": "https://ghidra-sre.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/BlackArch",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/BlackArch",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/CISOfy/lynis",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/CISOfy/lynis",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/CISOfy/lynis/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/CISOfy/lynis/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/CVEProject/cve-schema",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/CVEProject/cve-schema",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/NVIDIA/garak",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/NVIDIA/garak",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/NationalSecurityAgency/ghidra/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/OISF/suricata",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/OISF/suricata",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/OWASP/crAPI",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/OWASP/crAPI",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/ParrotSec",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/ParrotSec",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/REMnux",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/REMnux",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Security-Onion-Solutions/securityonion",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/Security-Onion-Solutions/securityonion",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Shuffle/Shuffle",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/Shuffle/Shuffle",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/TheHive-Project/TheHive",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/TheHive-Project/TheHive",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Velocidex/velociraptor",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/Velocidex/velociraptor",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/Velocidex/velociraptor/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/Velocidex/velociraptor/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/VirusTotal/yara",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/VirusTotal/yara",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/VirusTotal/yara/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/VirusTotal/yara/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/aquasecurity/trivy",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/aquasecurity/trivy",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/cisagov/kev-data",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/cisagov/kev-data",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/cuckoosandbox/cuckoo",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/cuckoosandbox/cuckoo",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/cuckoosandbox/cuckoo/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/cuckoosandbox/cuckoo/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/gpg/gnupg",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/gpg/gnupg",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/greenbone/openvas-scanner",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/greenbone/openvas-scanner",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/keepassxreboot/keepassxc",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/kevoreilly/CAPEv2",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/kevoreilly/CAPEv2",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/kevoreilly/CAPEv2/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/kevoreilly/CAPEv2/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/keycloak/keycloak",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/keycloak/keycloak",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/kismetwireless/kismet",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/kismetwireless/kismet",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/laramies/theHarvester",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/laramies/theHarvester",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/laramies/theHarvester/wiki",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/laramies/theHarvester/wiki",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/lockfale/OSINT-Framework",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/lockfale/OSINT-Framework",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/mitre-attack/attack-stix-data",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/mitre-attack/attack-stix-data",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/nmap/nmap",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/nmap/nmap",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/openssl/openssl",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/openssl/openssl",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/osquery/osquery",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/osquery/osquery",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/ossf/scorecard",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/ossf/scorecard",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/owasp-amass/amass",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/owasp-amass/amass",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/owasp-amass/amass/wiki",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/owasp-amass/amass/wiki",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/pgaudit/pgaudit",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/pgaudit/pgaudit",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/projectdiscovery/nuclei",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/projectdiscovery/nuclei/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/projectdiscovery/nuclei/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/prowler-cloud/prowler",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/prowler-cloud/prowler",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/rapid7/metasploit-framework",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/rapid7/metasploit-framework/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/rapid7/metasploit-framework/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/sleuthkit/autopsy",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/sleuthkit/autopsy",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/sleuthkit/sleuthkit",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/sleuthkit/sleuthkit",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/sleuthkit/sleuthkit/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/sleuthkit/sleuthkit/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/smicallef/spiderfoot",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/smicallef/spiderfoot",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/smicallef/spiderfoot/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/smicallef/spiderfoot/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/smicallef/spiderfoot/wiki",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/smicallef/spiderfoot",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/sullo/nikto",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/sullo/nikto",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/sullo/nikto/wiki",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/sullo/nikto/wiki",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/topics/cybersecurity",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/topics/cybersecurity",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/topics/digital-forensics",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/topics/digital-forensics",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/topics/malware-analysis",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/topics/malware-analysis",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/topics/network-security",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/topics/network-security",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/topics/security-tools",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/topics/security-tools",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/usnistgov",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/usnistgov",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/veracrypt/VeraCrypt",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/volatilityfoundation/volatility3",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/volatilityfoundation/volatility3",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/volatilityfoundation/volatility3/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/volatilityfoundation/volatility3/releases",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/wazuh/wazuh",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/wazuh/wazuh",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/wireshark/wireshark",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/wireshark/wireshark",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/zaproxy/zaproxy",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/zaproxy/zaproxy",
+      "error": ""
+    },
+    {
+      "url": "https://github.com/zeek/zeek",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://github.com/zeek/zeek",
+      "error": ""
+    },
+    {
+      "url": "https://gitlab.com/exploit-database/exploitdb",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://gitlab.com/exploit-database/exploitdb",
+      "error": ""
+    },
+    {
+      "url": "https://gitlab.com/kalilinux",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://gitlab.com/kalilinux",
+      "error": ""
+    },
+    {
+      "url": "https://gnupg.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://gnupg.org/",
+      "error": ""
+    },
+    {
+      "url": "https://gnupg.org/documentation/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://gnupg.org/documentation/",
+      "error": ""
+    },
+    {
+      "url": "https://gnupg.org/download/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://gnupg.org/download/",
+      "error": ""
+    },
+    {
+      "url": "https://greenbone.github.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://greenbone.github.io/",
+      "error": ""
+    },
+    {
+      "url": "https://greenbone.github.io/docs/latest/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://greenbone.github.io/docs/latest/",
+      "error": ""
+    },
+    {
+      "url": "https://greenbone.github.io/docs/latest/22.4/source-build/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://greenbone.github.io/docs/latest/22.4/source-build/",
+      "error": ""
+    },
+    {
+      "url": "https://keepassxc.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://keepassxc.org/",
+      "error": ""
+    },
+    {
+      "url": "https://keepassxc.org/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://keepassxc.org/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://keepassxc.org/download/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://keepassxc.org/download/",
+      "error": ""
+    },
+    {
+      "url": "https://nmap.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://nmap.org/",
+      "error": ""
+    },
+    {
+      "url": "https://nmap.org/book/man.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://nmap.org/book/man.html",
+      "error": ""
+    },
+    {
+      "url": "https://nmap.org/download.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://nmap.org/download.html",
+      "error": ""
+    },
+    {
+      "url": "https://nvd.nist.gov/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://nvd.nist.gov/",
+      "error": ""
+    },
+    {
+      "url": "https://nvd.nist.gov/developers",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://nvd.nist.gov/developers",
+      "error": ""
+    },
+    {
+      "url": "https://osintframework.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://osintframework.com/",
+      "error": ""
+    },
+    {
+      "url": "https://osquery.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://osquery.io/",
+      "error": ""
+    },
+    {
+      "url": "https://owasp.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://owasp.org/",
+      "error": ""
+    },
+    {
+      "url": "https://owasp.org/www-project-amass/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://owasp.org/projects/amass",
+      "error": ""
+    },
+    {
+      "url": "https://owasp.org/www-project-top-ten/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://owasp.org/projects/top-ten",
+      "error": ""
+    },
+    {
+      "url": "https://parrotsec.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://parrotsec.org/",
+      "error": ""
+    },
+    {
+      "url": "https://parrotsec.org/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://parrotsec.org/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://parrotsec.org/download/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://parrotsec.org/download/",
+      "error": ""
+    },
+    {
+      "url": "https://portswigger.net/burp",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://portswigger.net/burp",
+      "error": ""
+    },
+    {
+      "url": "https://portswigger.net/burp/documentation",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://portswigger.net/burp/documentation",
+      "error": ""
+    },
+    {
+      "url": "https://portswigger.net/burp/releases",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://portswigger.net/burp/releases",
+      "error": ""
+    },
+    {
+      "url": "https://projectdiscovery.io/nuclei",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://projectdiscovery.io/nuclei",
+      "error": ""
+    },
+    {
+      "url": "https://remnux.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://remnux.org/",
+      "error": ""
+    },
+    {
+      "url": "https://secarsenal.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://secarsenal.org/",
+      "error": ""
+    },
+    {
+      "url": "https://securityonionsolutions.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://securityonionsolutions.com/",
+      "error": ""
+    },
+    {
+      "url": "https://securityonionsolutions.com/software/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://securityonionsolutions.com/software/",
+      "error": ""
+    },
+    {
+      "url": "https://securityscorecards.dev/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://securityscorecards.dev/",
+      "error": ""
+    },
+    {
+      "url": "https://shuffler.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://shuffler.io/",
+      "error": ""
+    },
+    {
+      "url": "https://sleuthkit.org/autopsy/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://sleuthkit.org/autopsy/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://suricata.io/",
+      "status": "unreachable",
+      "http_status": null,
+      "final_url": "https://suricata.io/",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+    },
+    {
+      "url": "https://suricata.io/download/",
+      "status": "unreachable",
+      "http_status": null,
+      "final_url": "https://suricata.io/download/",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>"
+    },
+    {
+      "url": "https://thehive-project.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://strangebee.com/",
+      "error": ""
+    },
+    {
+      "url": "https://trivy.dev/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://trivy.dev/",
+      "error": ""
+    },
+    {
+      "url": "https://virustotal.github.io/yara/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://virustotal.github.io/yara/",
+      "error": ""
+    },
+    {
+      "url": "https://volatility3.readthedocs.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://volatility3.readthedocs.io/en/stable/",
+      "error": ""
+    },
+    {
+      "url": "https://volatilityfoundation.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://volatilityfoundation.org/",
+      "error": ""
+    },
+    {
+      "url": "https://wazuh.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://wazuh.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.autopsy.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.autopsy.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.autopsy.com/download/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.autopsy.com/download/",
+      "error": ""
+    },
+    {
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "error": ""
+    },
+    {
+      "url": "https://www.cve.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.cve.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs",
+      "error": ""
+    },
+    {
+      "url": "https://www.exploit-db.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.exploit-db.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.exploit-db.com/searchsploit",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.exploit-db.com/searchsploit",
+      "error": ""
+    },
+    {
+      "url": "https://www.kali.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.kali.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.kali.org/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.kali.org/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://www.kali.org/get-kali/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.kali.org/get-kali/",
+      "error": ""
+    },
+    {
+      "url": "https://www.keycloak.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.keycloak.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.maltego.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.maltego.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.maltego.com/downloads/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.maltego.com/downloads/",
+      "error": ""
+    },
+    {
+      "url": "https://www.metasploit.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.metasploit.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.nist.gov/cybersecurity",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.nist.gov/cybersecurity-and-privacy",
+      "error": ""
+    },
+    {
+      "url": "https://www.openssl.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.openssl.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.openssl.org/source/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://openssl-library.org:443/source/",
+      "error": ""
+    },
+    {
+      "url": "https://www.pgaudit.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.pgaudit.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.sans.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.sans.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.sans.org/white-papers/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.sans.org/white-papers",
+      "error": ""
+    },
+    {
+      "url": "https://www.sleuthkit.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.sleuthkit.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.sleuthkit.org/sleuthkit/docs.php",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.sleuthkit.org/sleuthkit/docs.php",
+      "error": ""
+    },
+    {
+      "url": "https://www.spiderfoot.net/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.intel471.com/",
+      "error": ""
+    },
+    {
+      "url": "https://www.tenable.com/downloads/nessus",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.tenable.com/downloads/nessus?loginAttempted=true",
+      "error": ""
+    },
+    {
+      "url": "https://www.tenable.com/products/nessus",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.tenable.com/products/nessus",
+      "error": ""
+    },
+    {
+      "url": "https://www.veracrypt.fr/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://veracrypt.io//",
+      "error": ""
+    },
+    {
+      "url": "https://www.veracrypt.fr/en/Documentation.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://veracrypt.io//en/Documentation.html",
+      "error": ""
+    },
+    {
+      "url": "https://www.veracrypt.fr/en/Downloads.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://veracrypt.io//en/Downloads.html",
+      "error": ""
+    },
+    {
+      "url": "https://www.virustotal.com/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.virustotal.com:443/gui/",
+      "error": ""
+    },
+    {
+      "url": "https://www.virustotal.com/gui/join-us",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.virustotal.com/gui/join-us",
+      "error": ""
+    },
+    {
+      "url": "https://www.wireshark.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.wireshark.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.wireshark.org/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.wireshark.org/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://www.wireshark.org/download.html",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.wireshark.org/download.html",
+      "error": ""
+    },
+    {
+      "url": "https://www.zaproxy.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.zaproxy.org/",
+      "error": ""
+    },
+    {
+      "url": "https://www.zaproxy.org/docs/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.zaproxy.org/docs/",
+      "error": ""
+    },
+    {
+      "url": "https://www.zaproxy.org/download/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://www.zaproxy.org/download/",
+      "error": ""
+    },
+    {
+      "url": "https://yara.readthedocs.io/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://yara.readthedocs.io/en/latest/",
+      "error": ""
+    },
+    {
+      "url": "https://zeek.org/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://zeek.org/",
+      "error": ""
+    },
+    {
+      "url": "https://zeek.org/get-zeek/",
+      "status": "ok",
+      "http_status": 200,
+      "final_url": "https://zeek.org/get-zeek/",
+      "error": ""
+    }
+  ],
+  "github_repositories": {
+    "CISOfy/lynis": {
+      "repository": "CISOfy/lynis",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/CISOfy/lynis",
+      "repository_updated_at": "2026-11-18T21:53:27Z",
+      "archived": false,
+      "license_spdx": "GPL-3.0",
+      "license_url": "https://api.github.com/licenses/gpl-3.0",
+      "latest_release": "Lynis 3.1.7",
+      "latest_tag": "3.1.7",
+      "release_url": "https://github.com/CISOfy/lynis/releases/tag/3.1.7",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "CVEProject/cve-schema": {
+      "repository": "CVEProject/cve-schema",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/CVEProject/cve-schema",
+      "repository_updated_at": "2026-11-14T23:12:34Z",
+      "archived": false,
+      "license_spdx": "CC0-1.0",
+      "license_url": "https://api.github.com/licenses/cc0-1.0",
+      "latest_release": "CVE Record Format version 5.2.0",
+      "latest_tag": "v5.2.0",
+      "release_url": "https://github.com/CVEProject/cve-schema/releases/tag/v5.2.0",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "MobSF/Mobile-Security-Framework-MobSF": {
+      "repository": "MobSF/Mobile-Security-Framework-MobSF",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+      "repository_updated_at": "2026-11-18T20:15:48Z",
+      "archived": false,
+      "license_spdx": "GPL-3.0",
+      "license_url": "https://api.github.com/licenses/gpl-3.0",
+      "latest_release": "v4.6.9",
+      "latest_tag": "v4.6.9",
+      "release_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/releases/tag/v4.6.9",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "NVIDIA/garak": {
+      "repository": "NVIDIA/garak",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/NVIDIA/garak",
+      "repository_updated_at": "2026-11-18T20:40:08Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "v0.17.1",
+      "latest_tag": "v0.17.1",
+      "release_url": "https://github.com/NVIDIA/garak/releases/tag/v0.17.1",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "NationalSecurityAgency/ghidra": {
+      "repository": "NationalSecurityAgency/ghidra",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra",
+      "repository_updated_at": "2026-11-18T21:42:27Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "Ghidra 12.2",
+      "latest_tag": "Ghidra_12.2_build",
+      "release_url": "https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_12.2_build",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "OISF/suricata": {
+      "repository": "OISF/suricata",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/OISF/suricata",
+      "repository_updated_at": "2026-11-18T16:26:08Z",
+      "archived": false,
+      "license_spdx": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
+      "latest_release": "8.0.8",
+      "latest_tag": "suricata-8.0.8",
+      "release_url": "https://github.com/OISF/suricata/releases/tag/suricata-8.0.8",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "OWASP/crAPI": {
+      "repository": "OWASP/crAPI",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/OWASP/crAPI",
+      "repository_updated_at": "2026-11-18T14:43:08Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "Release 1.1.6",
+      "latest_tag": "v1.1.6",
+      "release_url": "https://github.com/OWASP/crAPI/releases/tag/v1.1.6",
+      "release_check_status": "ok",
+      "default_branch": "develop",
+      "error": ""
+    },
+    "Security-Onion-Solutions/securityonion": {
+      "repository": "Security-Onion-Solutions/securityonion",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/Security-Onion-Solutions/securityonion",
+      "repository_updated_at": "2026-11-18T05:50:06Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "3.4.0-20261102",
+      "latest_tag": "3.4.0-20261102",
+      "release_url": "https://github.com/Security-Onion-Solutions/securityonion/releases/tag/3.4.0-20261102",
+      "release_check_status": "ok",
+      "default_branch": "3/main",
+      "error": ""
+    },
+    "Shuffle/Shuffle": {
+      "repository": "Shuffle/Shuffle",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/Shuffle/Shuffle",
+      "repository_updated_at": "2026-11-18T21:46:12Z",
+      "archived": false,
+      "license_spdx": "AGPL-3.0",
+      "license_url": "https://api.github.com/licenses/agpl-3.0",
+      "latest_release": "v2.3.0",
+      "latest_tag": "v2.3.0",
+      "release_url": "https://github.com/Shuffle/Shuffle/releases/tag/v2.3.0",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "TheHive-Project/TheHive": {
+      "repository": "TheHive-Project/TheHive",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/TheHive-Project/TheHive",
+      "repository_updated_at": "2026-11-16T23:03:23Z",
+      "archived": true,
+      "license_spdx": "AGPL-3.0",
+      "license_url": "https://api.github.com/licenses/agpl-3.0",
+      "latest_release": "4.1.24",
+      "latest_tag": "4.1.24",
+      "release_url": "https://github.com/TheHive-Project/TheHive/releases/tag/4.1.24",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "Velocidex/velociraptor": {
+      "repository": "Velocidex/velociraptor",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/Velocidex/velociraptor",
+      "repository_updated_at": "2026-11-18T20:08:17Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "Release 0.77.3",
+      "latest_tag": "v0.77.3",
+      "release_url": "https://github.com/Velocidex/velociraptor/releases/tag/v0.77.3",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "VirusTotal/yara": {
+      "repository": "VirusTotal/yara",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/VirusTotal/yara",
+      "repository_updated_at": "2026-11-18T11:19:54Z",
+      "archived": false,
+      "license_spdx": "BSD-3-Clause",
+      "license_url": "https://api.github.com/licenses/bsd-3-clause",
+      "latest_release": "YARA v4.6.0",
+      "latest_tag": "v4.6.0",
+      "release_url": "https://github.com/VirusTotal/yara/releases/tag/v4.6.0",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "aquasecurity/trivy": {
+      "repository": "aquasecurity/trivy",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/aquasecurity/trivy",
+      "repository_updated_at": "2026-11-18T21:47:55Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "v0.76.2",
+      "latest_tag": "v0.76.2",
+      "release_url": "https://github.com/aquasecurity/trivy/releases/tag/v0.76.2",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "cisagov/kev-data": {
+      "repository": "cisagov/kev-data",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/cisagov/kev-data",
+      "repository_updated_at": "2026-11-18T19:17:00Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "release_url": "غير متوفر",
+      "release_check_status": "not_available_http_404",
+      "default_branch": "develop",
+      "error": ""
+    },
+    "cuckoosandbox/cuckoo": {
+      "repository": "cuckoosandbox/cuckoo",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/cuckoosandbox/cuckoo",
+      "repository_updated_at": "2026-11-18T07:59:54Z",
+      "archived": true,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "2.0.6 release",
+      "latest_tag": "2.0.6",
+      "release_url": "https://github.com/cuckoosandbox/cuckoo/releases/tag/2.0.6",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "gpg/gnupg": {
+      "repository": "gpg/gnupg",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/gpg/gnupg",
+      "repository_updated_at": "2026-11-17T21:03:00Z",
+      "archived": false,
+      "license_spdx": "GPL-3.0",
+      "license_url": "https://api.github.com/licenses/gpl-3.0",
+      "latest_release": "post-nuke-of-trailing-ws",
+      "latest_tag": "post-nuke-of-trailing-ws",
+      "release_url": "https://api.github.com/repos/gpg/gnupg/commits/b008274afdbe375b32a7e66dbd073e200f6f0587",
+      "release_check_status": "tag_fallback",
+      "default_branch": "master",
+      "error": ""
+    },
+    "greenbone/openvas-scanner": {
+      "repository": "greenbone/openvas-scanner",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/greenbone/openvas-scanner",
+      "repository_updated_at": "2026-11-17T19:31:08Z",
+      "archived": false,
+      "license_spdx": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
+      "latest_release": "v23.52.12",
+      "latest_tag": "v23.52.12",
+      "release_url": "https://github.com/greenbone/openvas-scanner/releases/tag/v23.52.12",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "keepassxreboot/keepassxc": {
+      "repository": "keepassxreboot/keepassxc",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/keepassxreboot/keepassxc",
+      "repository_updated_at": "2026-11-18T19:45:39Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "Release 2.8.0",
+      "latest_tag": "2.8.0",
+      "release_url": "https://github.com/keepassxreboot/keepassxc/releases/tag/2.8.0",
+      "release_check_status": "ok",
+      "default_branch": "develop",
+      "error": ""
+    },
+    "kevoreilly/CAPEv2": {
+      "repository": "kevoreilly/CAPEv2",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/kevoreilly/CAPEv2",
+      "repository_updated_at": "2026-11-18T19:31:25Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "release_url": "غير متوفر",
+      "release_check_status": "not_available_http_404",
+      "default_branch": "master",
+      "error": ""
+    },
+    "keycloak/keycloak": {
+      "repository": "keycloak/keycloak",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/keycloak/keycloak",
+      "repository_updated_at": "2026-11-18T21:17:08Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "26.8.2",
+      "latest_tag": "26.8.2",
+      "release_url": "https://github.com/keycloak/keycloak/releases/tag/26.8.2",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "kismetwireless/kismet": {
+      "repository": "kismetwireless/kismet",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/kismetwireless/kismet",
+      "repository_updated_at": "2026-11-18T07:38:40Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "kismet-old-2009-05-R1",
+      "latest_tag": "kismet-old-2009-05-R1",
+      "release_url": "https://api.github.com/repos/kismetwireless/kismet/commits/802086e5a8177e0fe9bc051c1e36f1eb0250b55a",
+      "release_check_status": "tag_fallback",
+      "default_branch": "master",
+      "error": ""
+    },
+    "laramies/theHarvester": {
+      "repository": "laramies/theHarvester",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/laramies/theHarvester",
+      "repository_updated_at": "2026-11-18T21:17:59Z",
+      "archived": false,
+      "license_spdx": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
+      "latest_release": "4.11.1",
+      "latest_tag": "4.11.1",
+      "release_url": "https://github.com/laramies/theHarvester/releases/tag/4.11.1",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "lockfale/OSINT-Framework": {
+      "repository": "lockfale/OSINT-Framework",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/lockfale/OSINT-Framework",
+      "repository_updated_at": "2026-11-18T21:16:36Z",
+      "archived": false,
+      "license_spdx": "MIT",
+      "license_url": "https://api.github.com/licenses/mit",
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "release_url": "غير متوفر",
+      "release_check_status": "not_available_http_404",
+      "default_branch": "master",
+      "error": ""
+    },
+    "mitre-attack/attack-stix-data": {
+      "repository": "mitre-attack/attack-stix-data",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/mitre-attack/attack-stix-data",
+      "repository_updated_at": "2026-11-18T04:59:17Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "ATT&CK version 20.1",
+      "latest_tag": "v20.1",
+      "release_url": "https://github.com/mitre-attack/attack-stix-data/releases/tag/v20.1",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "nmap/nmap": {
+      "repository": "nmap/nmap",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/nmap/nmap",
+      "repository_updated_at": "2026-11-18T20:41:31Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "v7.992",
+      "latest_tag": "v7.992",
+      "release_url": "https://api.github.com/repos/nmap/nmap/commits/0ee561663c1d7d2d4e708cd414dccfd3d9df30d9",
+      "release_check_status": "tag_fallback",
+      "default_branch": "master",
+      "error": ""
+    },
+    "openssl/openssl": {
+      "repository": "openssl/openssl",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/openssl/openssl",
+      "repository_updated_at": "2026-11-18T21:25:48Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "OpenSSL 4.1.0",
+      "latest_tag": "openssl-4.1.0",
+      "release_url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "osquery/osquery": {
+      "repository": "osquery/osquery",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/osquery/osquery",
+      "repository_updated_at": "2026-11-18T18:31:29Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "5.24.1",
+      "latest_tag": "5.24.1",
+      "release_url": "https://github.com/osquery/osquery/releases/tag/5.24.1",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "ossf/scorecard": {
+      "repository": "ossf/scorecard",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/ossf/scorecard",
+      "repository_updated_at": "2026-11-18T06:30:24Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "v5.6.0",
+      "latest_tag": "v5.6.0",
+      "release_url": "https://github.com/ossf/scorecard/releases/tag/v5.6.0",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "owasp-amass/amass": {
+      "repository": "owasp-amass/amass",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/owasp-amass/amass",
+      "repository_updated_at": "2026-11-18T19:32:47Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "v5.1.3",
+      "latest_tag": "v5.1.3",
+      "release_url": "https://github.com/owasp-amass/amass/releases/tag/v5.1.3",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "pgaudit/pgaudit": {
+      "repository": "pgaudit/pgaudit",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/pgaudit/pgaudit",
+      "repository_updated_at": "2026-11-18T18:26:55Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "pgAudit 19.0 (PostgreSQL 19)",
+      "latest_tag": "19.0",
+      "release_url": "https://github.com/pgaudit/pgaudit/releases/tag/19.0",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "projectdiscovery/nuclei": {
+      "repository": "projectdiscovery/nuclei",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/projectdiscovery/nuclei",
+      "repository_updated_at": "2026-11-18T20:51:05Z",
+      "archived": false,
+      "license_spdx": "MIT",
+      "license_url": "https://api.github.com/licenses/mit",
+      "latest_release": "v3.11.1",
+      "latest_tag": "v3.11.1",
+      "release_url": "https://github.com/projectdiscovery/nuclei/releases/tag/v3.11.1",
+      "release_check_status": "ok",
+      "default_branch": "dev",
+      "error": ""
+    },
+    "prowler-cloud/prowler": {
+      "repository": "prowler-cloud/prowler",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/prowler-cloud/prowler",
+      "repository_updated_at": "2026-11-18T20:40:51Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "Prowler 5.50.0",
+      "latest_tag": "5.50.0",
+      "release_url": "https://github.com/prowler-cloud/prowler/releases/tag/5.50.0",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "rapid7/metasploit-framework": {
+      "repository": "rapid7/metasploit-framework",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/rapid7/metasploit-framework",
+      "repository_updated_at": "2026-11-18T19:57:21Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "v4.11.7",
+      "latest_tag": "v4.11.7",
+      "release_url": "https://api.github.com/repos/rapid7/metasploit-framework/commits/dea4f35b0e6947c3b96d992c526db348cda36de0",
+      "release_check_status": "tag_fallback",
+      "default_branch": "master",
+      "error": ""
+    },
+    "sleuthkit/autopsy": {
+      "repository": "sleuthkit/autopsy",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/sleuthkit/autopsy",
+      "repository_updated_at": "2026-11-18T17:09:44Z",
+      "archived": false,
+      "license_spdx": "غير متوفر",
+      "license_url": "غير متوفر",
+      "latest_release": "Autopsy 4.23.1",
+      "latest_tag": "autopsy-4.23.1",
+      "release_url": "https://github.com/sleuthkit/autopsy/releases/tag/autopsy-4.23.1",
+      "release_check_status": "ok",
+      "default_branch": "develop",
+      "error": ""
+    },
+    "sleuthkit/sleuthkit": {
+      "repository": "sleuthkit/sleuthkit",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/sleuthkit/sleuthkit",
+      "repository_updated_at": "2026-11-17T19:27:12Z",
+      "archived": false,
+      "license_spdx": "غير متوفر",
+      "license_url": "غير متوفر",
+      "latest_release": "Sleuth Kit 4.15.0",
+      "latest_tag": "sleuthkit-4.15.0",
+      "release_url": "https://github.com/sleuthkit/sleuthkit/releases/tag/sleuthkit-4.15.0",
+      "release_check_status": "ok",
+      "default_branch": "develop-4.1x",
+      "error": ""
+    },
+    "smicallef/spiderfoot": {
+      "repository": "smicallef/spiderfoot",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/smicallef/spiderfoot",
+      "repository_updated_at": "2026-11-18T21:23:42Z",
+      "archived": false,
+      "license_spdx": "MIT",
+      "license_url": "https://api.github.com/licenses/mit",
+      "latest_release": "v4.0",
+      "latest_tag": "v4.0",
+      "release_url": "https://github.com/smicallef/spiderfoot/releases/tag/v4.0",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "sullo/nikto": {
+      "repository": "sullo/nikto",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/sullo/nikto",
+      "repository_updated_at": "2026-11-18T13:11:45Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "Nikto 2.6.1",
+      "latest_tag": "2.6.1",
+      "release_url": "https://github.com/sullo/nikto/releases/tag/2.6.1",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "veracrypt/VeraCrypt": {
+      "repository": "veracrypt/VeraCrypt",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/veracrypt/VeraCrypt",
+      "repository_updated_at": "2026-11-18T20:05:27Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "VeraCrypt 1.26.31",
+      "latest_tag": "VeraCrypt_1.26.31",
+      "release_url": "https://github.com/veracrypt/VeraCrypt/releases/tag/VeraCrypt_1.26.31",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    },
+    "volatilityfoundation/volatility3": {
+      "repository": "volatilityfoundation/volatility3",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/volatilityfoundation/volatility3",
+      "repository_updated_at": "2026-11-18T19:18:35Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "Volatility 3 2.28.2",
+      "latest_tag": "v2.28.2",
+      "release_url": "https://github.com/volatilityfoundation/volatility3/releases/tag/v2.28.2",
+      "release_check_status": "ok",
+      "default_branch": "develop",
+      "error": ""
+    },
+    "wazuh/wazuh": {
+      "repository": "wazuh/wazuh",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/wazuh/wazuh",
+      "repository_updated_at": "2026-11-18T21:47:53Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "Wazuh v4.14.10",
+      "latest_tag": "v4.14.10",
+      "release_url": "https://github.com/wazuh/wazuh/releases/tag/v4.14.10",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "wireshark/wireshark": {
+      "repository": "wireshark/wireshark",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/wireshark/wireshark",
+      "repository_updated_at": "2026-11-18T19:38:44Z",
+      "archived": false,
+      "license_spdx": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
+      "latest_release": "wireshark-4.4.9",
+      "latest_tag": "wireshark-4.4.9",
+      "release_url": "https://api.github.com/repos/wireshark/wireshark/commits/57bf672140761a871aaad0f709fb7f7c32fd186b",
+      "release_check_status": "tag_fallback",
+      "default_branch": "master",
+      "error": ""
+    },
+    "zaproxy/zaproxy": {
+      "repository": "zaproxy/zaproxy",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/zaproxy/zaproxy",
+      "repository_updated_at": "2026-11-18T19:49:19Z",
+      "archived": false,
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://api.github.com/licenses/apache-2.0",
+      "latest_release": "v2.17.0",
+      "latest_tag": "v2.17.0",
+      "release_url": "https://github.com/zaproxy/zaproxy/releases/tag/v2.17.0",
+      "release_check_status": "ok",
+      "default_branch": "main",
+      "error": ""
+    },
+    "zeek/zeek": {
+      "repository": "zeek/zeek",
+      "checked_at": "2026-11-18T21:54:17Z",
+      "metadata_status": "ok",
+      "repository_url": "https://github.com/zeek/zeek",
+      "repository_updated_at": "2026-11-18T16:26:21Z",
+      "archived": false,
+      "license_spdx": "NOASSERTION",
+      "license_url": "غير متوفر",
+      "latest_release": "v9.0.1",
+      "latest_tag": "v9.0.1",
+      "release_url": "https://github.com/zeek/zeek/releases/tag/v9.0.1",
+      "release_check_status": "ok",
+      "default_branch": "master",
+      "error": ""
+    }
+  },
+  "archived_repositories": [
+    "TheHive-Project/TheHive",
+    "cuckoosandbox/cuckoo"
+  ],
+  "unavailable_repository_metadata": [],
+  "notes": [
+    "HTTP 401/403/429 responses are recorded as restricted or rate-limited, not asserted to be broken.",
+    "GitHub metadata reflects the public API response at check time.",
+    "Non-GitHub releases and product lifecycle must be verified from their official publishers."
+  ],
+  "previous_automated_metadata": {
+    "security-onion": {
+      "latest_release": "3.4.0-20261102",
+      "latest_tag": "3.4.0-20261102",
+      "last_repository_update": "2026-11-18T05:50:06Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/Security-Onion-Solutions/securityonion"
+    },
+    "wireshark": {
+      "latest_release": "wireshark-4.4.9",
+      "latest_tag": "wireshark-4.4.9",
+      "last_repository_update": "2026-11-18T19:38:44Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/wireshark/wireshark"
+    },
+    "nmap": {
+      "latest_release": "v7.992",
+      "latest_tag": "v7.992",
+      "last_repository_update": "2026-11-18T20:41:31Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/nmap/nmap"
+    },
+    "zeek": {
+      "latest_release": "v9.0.1",
+      "latest_tag": "v9.0.1",
+      "last_repository_update": "2026-11-18T16:26:21Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/zeek/zeek"
+    },
+    "suricata": {
+      "latest_release": "8.0.8",
+      "latest_tag": "suricata-8.0.8",
+      "last_repository_update": "2026-11-18T16:26:08Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/OISF/suricata"
+    },
+    "owasp-zap": {
+      "latest_release": "v2.17.0",
+      "latest_tag": "v2.17.0",
+      "last_repository_update": "2026-11-18T19:49:19Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/zaproxy/zaproxy"
+    },
+    "nikto": {
+      "latest_release": "Nikto 2.6.1",
+      "latest_tag": "2.6.1",
+      "last_repository_update": "2026-11-18T13:11:45Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/sullo/nikto"
+    },
+    "nuclei": {
+      "latest_release": "v3.11.1",
+      "latest_tag": "v3.11.1",
+      "last_repository_update": "2026-11-18T20:51:05Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/projectdiscovery/nuclei"
+    },
+    "metasploit-framework": {
+      "latest_release": "v4.11.7",
+      "latest_tag": "v4.11.7",
+      "last_repository_update": "2026-11-18T19:57:21Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/rapid7/metasploit-framework"
+    },
+    "greenbone-openvas": {
+      "latest_release": "v23.52.12",
+      "latest_tag": "v23.52.12",
+      "last_repository_update": "2026-11-17T19:31:08Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/greenbone/openvas-scanner"
+    },
+    "spiderfoot": {
+      "latest_release": "v4.0",
+      "latest_tag": "v4.0",
+      "last_repository_update": "2026-11-18T21:23:42Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/smicallef/spiderfoot"
+    },
+    "theharvester": {
+      "latest_release": "4.11.1",
+      "latest_tag": "4.11.1",
+      "last_repository_update": "2026-11-18T21:17:59Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/laramies/theHarvester"
+    },
+    "owasp-amass": {
+      "latest_release": "v5.1.3",
+      "latest_tag": "v5.1.3",
+      "last_repository_update": "2026-11-18T19:32:47Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/owasp-amass/amass"
+    },
+    "osint-framework": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "2026-11-18T21:16:36Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/lockfale/OSINT-Framework"
+    },
+    "autopsy": {
+      "latest_release": "Autopsy 4.23.1",
+      "latest_tag": "autopsy-4.23.1",
+      "last_repository_update": "2026-11-18T17:09:44Z",
+      "archived": false,
+      "spdx_license": "غير متوفر",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/sleuthkit/autopsy"
+    },
+    "volatility3": {
+      "latest_release": "Volatility 3 2.28.2",
+      "latest_tag": "v2.28.2",
+      "last_repository_update": "2026-11-18T19:18:35Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/volatilityfoundation/volatility3"
+    },
+    "sleuth-kit": {
+      "latest_release": "Sleuth Kit 4.15.0",
+      "latest_tag": "sleuthkit-4.15.0",
+      "last_repository_update": "2026-11-17T19:27:12Z",
+      "archived": false,
+      "spdx_license": "غير متوفر",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/sleuthkit/sleuthkit"
+    },
+    "velociraptor": {
+      "latest_release": "Release 0.77.3",
+      "latest_tag": "v0.77.3",
+      "last_repository_update": "2026-11-18T20:08:17Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/Velocidex/velociraptor"
+    },
+    "yara": {
+      "latest_release": "YARA v4.6.0",
+      "latest_tag": "v4.6.0",
+      "last_repository_update": "2026-11-18T11:19:54Z",
+      "archived": false,
+      "spdx_license": "BSD-3-Clause",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/VirusTotal/yara"
+    },
+    "ghidra": {
+      "latest_release": "Ghidra 12.2",
+      "latest_tag": "Ghidra_12.2_build",
+      "last_repository_update": "2026-11-18T21:42:27Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    "cape-sandbox": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "2026-11-18T19:31:25Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/kevoreilly/CAPEv2"
+    },
+    "cuckoo-sandbox": {
+      "latest_release": "2.0.6 release",
+      "latest_tag": "2.0.6",
+      "last_repository_update": "2026-11-18T07:59:54Z",
+      "archived": true,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/cuckoosandbox/cuckoo"
+    },
+    "openssl": {
+      "latest_release": "OpenSSL 4.1.0",
+      "latest_tag": "openssl-4.1.0",
+      "last_repository_update": "2026-11-18T21:25:48Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/openssl/openssl"
+    },
+    "gnupg": {
+      "latest_release": "post-nuke-of-trailing-ws",
+      "latest_tag": "post-nuke-of-trailing-ws",
+      "last_repository_update": "2026-11-17T21:03:00Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/gpg/gnupg"
+    },
+    "veracrypt": {
+      "latest_release": "VeraCrypt 1.26.31",
+      "latest_tag": "VeraCrypt_1.26.31",
+      "last_repository_update": "2026-11-18T20:05:27Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/veracrypt/VeraCrypt"
+    },
+    "keepassxc": {
+      "latest_release": "Release 2.8.0",
+      "latest_tag": "2.8.0",
+      "last_repository_update": "2026-11-18T19:45:39Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/keepassxreboot/keepassxc"
+    },
+    "lynis": {
+      "latest_release": "Lynis 3.1.7",
+      "latest_tag": "3.1.7",
+      "last_repository_update": "2026-11-18T20:58:30Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/CISOfy/lynis"
+    },
+    "mitre-attack": {
+      "latest_release": "ATT&CK version 20.1",
+      "latest_tag": "v20.1",
+      "last_repository_update": "2026-11-18T04:59:17Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/mitre-attack/attack-stix-data"
+    },
+    "cve": {
+      "latest_release": "CVE Record Format version 5.2.0",
+      "latest_tag": "v5.2.0",
+      "last_repository_update": "2026-11-14T23:12:34Z",
+      "archived": false,
+      "spdx_license": "CC0-1.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/CVEProject/cve-schema"
+    },
+    "cisa-kev": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "2026-11-18T19:17:00Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/cisagov/kev-data"
+    },
+    "prowler": {
+      "latest_release": "Prowler 5.50.0",
+      "latest_tag": "5.50.0",
+      "last_repository_update": "2026-11-18T20:40:51Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/prowler-cloud/prowler"
+    },
+    "mobsf": {
+      "latest_release": "v4.6.9",
+      "latest_tag": "v4.6.9",
+      "last_repository_update": "2026-11-18T20:15:48Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
+    },
+    "kismet": {
+      "latest_release": "kismet-old-2009-05-R1",
+      "latest_tag": "kismet-old-2009-05-R1",
+      "last_repository_update": "2026-11-18T07:38:40Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/kismetwireless/kismet"
+    },
+    "osquery": {
+      "latest_release": "5.24.1",
+      "latest_tag": "5.24.1",
+      "last_repository_update": "2026-11-18T18:31:29Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/osquery/osquery"
+    },
+    "wazuh": {
+      "latest_release": "Wazuh v4.14.10",
+      "latest_tag": "v4.14.10",
+      "last_repository_update": "2026-11-18T21:47:53Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/wazuh/wazuh"
+    },
+    "shuffle": {
+      "latest_release": "v2.3.0",
+      "latest_tag": "v2.3.0",
+      "last_repository_update": "2026-11-18T21:46:12Z",
+      "archived": false,
+      "spdx_license": "AGPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/Shuffle/Shuffle"
+    },
+    "garak": {
+      "latest_release": "v0.17.1",
+      "latest_tag": "v0.17.1",
+      "last_repository_update": "2026-11-18T20:40:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/NVIDIA/garak"
+    },
+    "pgaudit": {
+      "latest_release": "pgAudit 19.0 (PostgreSQL 19)",
+      "latest_tag": "19.0",
+      "last_repository_update": "2026-11-18T18:26:55Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/pgaudit/pgaudit"
+    },
+    "trivy": {
+      "latest_release": "v0.76.2",
+      "latest_tag": "v0.76.2",
+      "last_repository_update": "2026-11-18T21:47:55Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/aquasecurity/trivy"
+    },
+    "keycloak": {
+      "latest_release": "26.8.2",
+      "latest_tag": "26.8.2",
+      "last_repository_update": "2026-11-18T21:17:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/keycloak/keycloak"
+    },
+    "scorecard": {
+      "latest_release": "v5.6.0",
+      "latest_tag": "v5.6.0",
+      "last_repository_update": "2026-11-18T06:30:24Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/ossf/scorecard"
+    },
+    "crapi": {
+      "latest_release": "Release 1.1.6",
+      "latest_tag": "v1.1.6",
+      "last_repository_update": "2026-11-18T14:43:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/OWASP/crAPI"
+    },
+    "thehive": {
+      "latest_release": "4.1.24",
+      "latest_tag": "4.1.24",
+      "last_repository_update": "2026-11-16T23:03:23Z",
+      "archived": true,
+      "spdx_license": "AGPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "https://github.com/TheHive-Project/TheHive"
+    }
+  }
+}

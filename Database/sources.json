@@ -5,7 +5,11 @@
     "name": "Kali Linux",
     "source_type": "official_website",
     "url": "https://www.kali.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.kali.org/"
   },
   {
     "source_id": "kali-linux-repository",
@@ -13,7 +17,11 @@
     "name": "Kali Linux",
     "source_type": "repository",
     "url": "https://gitlab.com/kalilinux",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gitlab.com/kalilinux"
   },
   {
     "source_id": "kali-linux-documentation",
@@ -21,7 +29,11 @@
     "name": "Kali Linux",
     "source_type": "documentation",
     "url": "https://www.kali.org/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.kali.org/docs/"
   },
   {
     "source_id": "kali-linux-download",
@@ -29,7 +41,11 @@
     "name": "Kali Linux",
     "source_type": "download",
     "url": "https://www.kali.org/get-kali/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.kali.org/get-kali/"
   },
   {
     "source_id": "parrot-security-official_website",
@@ -37,7 +53,11 @@
     "name": "Parrot Security",
     "source_type": "official_website",
     "url": "https://parrotsec.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://parrotsec.org/"
   },
   {
     "source_id": "parrot-security-repository",
@@ -45,7 +65,11 @@
     "name": "Parrot Security",
     "source_type": "repository",
     "url": "https://github.com/ParrotSec",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/ParrotSec"
   },
   {
     "source_id": "parrot-security-documentation",
@@ -53,7 +77,11 @@
     "name": "Parrot Security",
     "source_type": "documentation",
     "url": "https://parrotsec.org/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://parrotsec.org/docs/"
   },
   {
     "source_id": "parrot-security-download",
@@ -61,7 +89,11 @@
     "name": "Parrot Security",
     "source_type": "download",
     "url": "https://parrotsec.org/download/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://parrotsec.org/download/"
   },
   {
     "source_id": "blackarch-linux-official_website",
@@ -69,7 +101,11 @@
     "name": "BlackArch Linux",
     "source_type": "official_website",
     "url": "https://blackarch.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://blackarch.org/"
   },
   {
     "source_id": "blackarch-linux-repository",
@@ -77,7 +113,11 @@
     "name": "BlackArch Linux",
     "source_type": "repository",
     "url": "https://github.com/BlackArch",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/BlackArch"
   },
   {
     "source_id": "blackarch-linux-documentation",
@@ -85,7 +125,11 @@
     "name": "BlackArch Linux",
     "source_type": "documentation",
     "url": "https://blackarch.org/guide.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://blackarch.org/guide.html"
   },
   {
     "source_id": "blackarch-linux-download",
@@ -93,7 +137,11 @@
     "name": "BlackArch Linux",
     "source_type": "download",
     "url": "https://blackarch.org/download.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://blackarch.org/download.html"
   },
   {
     "source_id": "security-onion-official_website",
@@ -101,7 +149,11 @@
     "name": "Security Onion",
     "source_type": "official_website",
     "url": "https://securityonionsolutions.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://securityonionsolutions.com/"
   },
   {
     "source_id": "security-onion-repository",
@@ -109,7 +161,11 @@
     "name": "Security Onion",
     "source_type": "repository",
     "url": "https://github.com/Security-Onion-Solutions/securityonion",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/Security-Onion-Solutions/securityonion"
   },
   {
     "source_id": "security-onion-documentation",
@@ -117,7 +173,11 @@
     "name": "Security Onion",
     "source_type": "documentation",
     "url": "https://docs.securityonion.net/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.securityonion.net/"
   },
   {
     "source_id": "security-onion-download",
@@ -125,7 +185,11 @@
     "name": "Security Onion",
     "source_type": "download",
     "url": "https://securityonionsolutions.com/software/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://securityonionsolutions.com/software/"
   },
   {
     "source_id": "remnux-official_website",
@@ -133,7 +197,11 @@
     "name": "REMnux",
     "source_type": "official_website",
     "url": "https://remnux.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://remnux.org/"
   },
   {
     "source_id": "remnux-repository",
@@ -141,7 +209,11 @@
     "name": "REMnux",
     "source_type": "repository",
     "url": "https://github.com/REMnux",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/REMnux"
   },
   {
     "source_id": "remnux-documentation",
@@ -149,7 +221,11 @@
     "name": "REMnux",
     "source_type": "documentation",
     "url": "https://docs.remnux.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.remnux.org/"
   },
   {
     "source_id": "remnux-download",
@@ -157,7 +233,11 @@
     "name": "REMnux",
     "source_type": "download",
     "url": "https://remnux.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://remnux.org/"
   },
   {
     "source_id": "wireshark-official_website",
@@ -165,7 +245,11 @@
     "name": "Wireshark",
     "source_type": "official_website",
     "url": "https://www.wireshark.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.wireshark.org/"
   },
   {
     "source_id": "wireshark-repository",
@@ -173,7 +257,11 @@
     "name": "Wireshark",
     "source_type": "repository",
     "url": "https://github.com/wireshark/wireshark",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/wireshark/wireshark"
   },
   {
     "source_id": "wireshark-documentation",
@@ -181,7 +269,11 @@
     "name": "Wireshark",
     "source_type": "documentation",
     "url": "https://www.wireshark.org/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.wireshark.org/docs/"
   },
   {
     "source_id": "wireshark-download",
@@ -189,7 +281,11 @@
     "name": "Wireshark",
     "source_type": "download",
     "url": "https://www.wireshark.org/download.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.wireshark.org/download.html"
   },
   {
     "source_id": "nmap-official_website",
@@ -197,7 +293,11 @@
     "name": "Nmap",
     "source_type": "official_website",
     "url": "https://nmap.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://nmap.org/"
   },
   {
     "source_id": "nmap-repository",
@@ -205,7 +305,11 @@
     "name": "Nmap",
     "source_type": "repository",
     "url": "https://github.com/nmap/nmap",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/nmap/nmap"
   },
   {
     "source_id": "nmap-documentation",
@@ -213,7 +317,11 @@
     "name": "Nmap",
     "source_type": "documentation",
     "url": "https://nmap.org/book/man.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://nmap.org/book/man.html"
   },
   {
     "source_id": "nmap-download",
@@ -221,7 +329,11 @@
     "name": "Nmap",
     "source_type": "download",
     "url": "https://nmap.org/download.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://nmap.org/download.html"
   },
   {
     "source_id": "zeek-official_website",
@@ -229,7 +341,11 @@
     "name": "Zeek",
     "source_type": "official_website",
     "url": "https://zeek.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://zeek.org/"
   },
   {
     "source_id": "zeek-repository",
@@ -237,7 +353,11 @@
     "name": "Zeek",
     "source_type": "repository",
     "url": "https://github.com/zeek/zeek",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/zeek/zeek"
   },
   {
     "source_id": "zeek-documentation",
@@ -245,7 +365,11 @@
     "name": "Zeek",
     "source_type": "documentation",
     "url": "https://docs.zeek.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.zeek.org/en/current/"
   },
   {
     "source_id": "zeek-download",
@@ -253,15 +377,23 @@
     "name": "Zeek",
     "source_type": "download",
     "url": "https://zeek.org/get-zeek/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://zeek.org/get-zeek/"
   },
   {
     "source_id": "suricata-official_website",
     "record_id": "suricata",
     "name": "Suricata",
     "source_type": "official_website",
-    "url": "https://suricata.io/",
-    "verification_status": "pending_live_check"
+    "url": "https://oisf.net/",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://oisf.net/"
   },
   {
     "source_id": "suricata-repository",
@@ -269,7 +401,11 @@
     "name": "Suricata",
     "source_type": "repository",
     "url": "https://github.com/OISF/suricata",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/OISF/suricata"
   },
   {
     "source_id": "suricata-documentation",
@@ -277,15 +413,23 @@
     "name": "Suricata",
     "source_type": "documentation",
     "url": "https://docs.suricata.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.suricata.io/en/suricata-8.0.8/"
   },
   {
     "source_id": "suricata-download",
     "record_id": "suricata",
     "name": "Suricata",
     "source_type": "download",
-    "url": "https://suricata.io/download/",
-    "verification_status": "pending_live_check"
+    "url": "https://github.com/OISF/suricata/releases",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/OISF/suricata/releases"
   },
   {
     "source_id": "owasp-zap-official_website",
@@ -293,7 +437,11 @@
     "name": "OWASP ZAP",
     "source_type": "official_website",
     "url": "https://www.zaproxy.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.zaproxy.org/"
   },
   {
     "source_id": "owasp-zap-repository",
@@ -301,7 +449,11 @@
     "name": "OWASP ZAP",
     "source_type": "repository",
     "url": "https://github.com/zaproxy/zaproxy",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/zaproxy/zaproxy"
   },
   {
     "source_id": "owasp-zap-documentation",
@@ -309,7 +461,11 @@
     "name": "OWASP ZAP",
     "source_type": "documentation",
     "url": "https://www.zaproxy.org/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.zaproxy.org/docs/"
   },
   {
     "source_id": "owasp-zap-download",
@@ -317,7 +473,11 @@
     "name": "OWASP ZAP",
     "source_type": "download",
     "url": "https://www.zaproxy.org/download/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.zaproxy.org/download/"
   },
   {
     "source_id": "burp-suite-official_website",
@@ -325,7 +485,11 @@
     "name": "Burp Suite",
     "source_type": "official_website",
     "url": "https://portswigger.net/burp",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://portswigger.net/burp"
   },
   {
     "source_id": "burp-suite-documentation",
@@ -333,7 +497,11 @@
     "name": "Burp Suite",
     "source_type": "documentation",
     "url": "https://portswigger.net/burp/documentation",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://portswigger.net/burp/documentation"
   },
   {
     "source_id": "burp-suite-download",
@@ -341,7 +509,11 @@
     "name": "Burp Suite",
     "source_type": "download",
     "url": "https://portswigger.net/burp/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://portswigger.net/burp/releases"
   },
   {
     "source_id": "nikto-official_website",
@@ -349,7 +521,11 @@
     "name": "Nikto",
     "source_type": "official_website",
     "url": "https://cirt.net/Nikto2",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "http://cirt.net/nikto/"
   },
   {
     "source_id": "nikto-repository",
@@ -357,7 +533,11 @@
     "name": "Nikto",
     "source_type": "repository",
     "url": "https://github.com/sullo/nikto",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sullo/nikto"
   },
   {
     "source_id": "nikto-documentation",
@@ -365,7 +545,11 @@
     "name": "Nikto",
     "source_type": "documentation",
     "url": "https://github.com/sullo/nikto/wiki",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sullo/nikto/wiki"
   },
   {
     "source_id": "nikto-download",
@@ -373,7 +557,11 @@
     "name": "Nikto",
     "source_type": "download",
     "url": "https://github.com/sullo/nikto",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sullo/nikto"
   },
   {
     "source_id": "nuclei-official_website",
@@ -381,7 +569,11 @@
     "name": "Nuclei",
     "source_type": "official_website",
     "url": "https://projectdiscovery.io/nuclei",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://projectdiscovery.io/nuclei"
   },
   {
     "source_id": "nuclei-repository",
@@ -389,7 +581,11 @@
     "name": "Nuclei",
     "source_type": "repository",
     "url": "https://github.com/projectdiscovery/nuclei",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/projectdiscovery/nuclei"
   },
   {
     "source_id": "nuclei-documentation",
@@ -397,7 +593,11 @@
     "name": "Nuclei",
     "source_type": "documentation",
     "url": "https://docs.projectdiscovery.io/tools/nuclei/overview",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.projectdiscovery.io/opensource/nuclei/overview"
   },
   {
     "source_id": "nuclei-download",
@@ -405,7 +605,11 @@
     "name": "Nuclei",
     "source_type": "download",
     "url": "https://github.com/projectdiscovery/nuclei/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/projectdiscovery/nuclei/releases"
   },
   {
     "source_id": "owasp-official_website",
@@ -413,7 +617,11 @@
     "name": "OWASP",
     "source_type": "official_website",
     "url": "https://owasp.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://owasp.org/"
   },
   {
     "source_id": "owasp-documentation",
@@ -421,7 +629,11 @@
     "name": "OWASP",
     "source_type": "documentation",
     "url": "https://owasp.org/www-project-top-ten/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://owasp.org/projects/top-ten"
   },
   {
     "source_id": "metasploit-framework-official_website",
@@ -429,7 +641,11 @@
     "name": "Metasploit Framework",
     "source_type": "official_website",
     "url": "https://www.metasploit.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.metasploit.com/"
   },
   {
     "source_id": "metasploit-framework-repository",
@@ -437,7 +653,11 @@
     "name": "Metasploit Framework",
     "source_type": "repository",
     "url": "https://github.com/rapid7/metasploit-framework",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/rapid7/metasploit-framework"
   },
   {
     "source_id": "metasploit-framework-documentation",
@@ -445,7 +665,11 @@
     "name": "Metasploit Framework",
     "source_type": "documentation",
     "url": "https://docs.metasploit.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.metasploit.com/"
   },
   {
     "source_id": "metasploit-framework-download",
@@ -453,7 +677,11 @@
     "name": "Metasploit Framework",
     "source_type": "download",
     "url": "https://github.com/rapid7/metasploit-framework/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/rapid7/metasploit-framework/releases"
   },
   {
     "source_id": "greenbone-openvas-official_website",
@@ -461,7 +689,11 @@
     "name": "Greenbone / OpenVAS",
     "source_type": "official_website",
     "url": "https://greenbone.github.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://greenbone.github.io/"
   },
   {
     "source_id": "greenbone-openvas-repository",
@@ -469,7 +701,11 @@
     "name": "Greenbone / OpenVAS",
     "source_type": "repository",
     "url": "https://github.com/greenbone/openvas-scanner",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/greenbone/openvas-scanner"
   },
   {
     "source_id": "greenbone-openvas-documentation",
@@ -477,7 +713,11 @@
     "name": "Greenbone / OpenVAS",
     "source_type": "documentation",
     "url": "https://greenbone.github.io/docs/latest/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://greenbone.github.io/docs/latest/"
   },
   {
     "source_id": "greenbone-openvas-download",
@@ -485,7 +725,11 @@
     "name": "Greenbone / OpenVAS",
     "source_type": "download",
     "url": "https://greenbone.github.io/docs/latest/22.4/source-build/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://greenbone.github.io/docs/latest/22.4/source-build/"
   },
   {
     "source_id": "nessus-official_website",
@@ -493,7 +737,11 @@
     "name": "Nessus",
     "source_type": "official_website",
     "url": "https://www.tenable.com/products/nessus",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.tenable.com/products/nessus"
   },
   {
     "source_id": "nessus-documentation",
@@ -501,7 +749,11 @@
     "name": "Nessus",
     "source_type": "documentation",
     "url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm"
   },
   {
     "source_id": "nessus-download",
@@ -509,7 +761,11 @@
     "name": "Nessus",
     "source_type": "download",
     "url": "https://www.tenable.com/downloads/nessus",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.tenable.com/downloads/nessus?loginAttempted=true"
   },
   {
     "source_id": "exploit-db-official_website",
@@ -517,23 +773,35 @@
     "name": "Exploit Database",
     "source_type": "official_website",
     "url": "https://www.exploit-db.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.exploit-db.com/"
   },
   {
     "source_id": "exploit-db-repository",
     "record_id": "exploit-db",
     "name": "Exploit Database",
     "source_type": "repository",
-    "url": "https://github.com/offensive-security/exploitdb",
-    "verification_status": "pending_live_check"
+    "url": "https://gitlab.com/exploit-database/exploitdb",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gitlab.com/exploit-database/exploitdb"
   },
   {
     "source_id": "exploit-db-documentation",
     "record_id": "exploit-db",
     "name": "Exploit Database",
     "source_type": "documentation",
-    "url": "https://www.exploit-db.com/documentation/",
-    "verification_status": "pending_live_check"
+    "url": "https://www.exploit-db.com/searchsploit",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.exploit-db.com/searchsploit"
   },
   {
     "source_id": "searchsploit-official_website",
@@ -541,15 +809,23 @@
     "name": "SearchSploit",
     "source_type": "official_website",
     "url": "https://www.exploit-db.com/searchsploit",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.exploit-db.com/searchsploit"
   },
   {
     "source_id": "searchsploit-repository",
     "record_id": "searchsploit",
     "name": "SearchSploit",
     "source_type": "repository",
-    "url": "https://github.com/Exploitables/searchsploit",
-    "verification_status": "pending_live_check"
+    "url": "https://gitlab.com/exploit-database/exploitdb",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gitlab.com/exploit-database/exploitdb"
   },
   {
     "source_id": "searchsploit-documentation",
@@ -557,7 +833,11 @@
     "name": "SearchSploit",
     "source_type": "documentation",
     "url": "https://www.exploit-db.com/searchsploit",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.exploit-db.com/searchsploit"
   },
   {
     "source_id": "maltego-official_website",
@@ -565,7 +845,11 @@
     "name": "Maltego",
     "source_type": "official_website",
     "url": "https://www.maltego.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.maltego.com/"
   },
   {
     "source_id": "maltego-documentation",
@@ -573,7 +857,11 @@
     "name": "Maltego",
     "source_type": "documentation",
     "url": "https://docs.maltego.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.maltego.com/en/support/home"
   },
   {
     "source_id": "maltego-download",
@@ -581,7 +869,11 @@
     "name": "Maltego",
     "source_type": "download",
     "url": "https://www.maltego.com/downloads/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.maltego.com/downloads/"
   },
   {
     "source_id": "spiderfoot-official_website",
@@ -589,7 +881,11 @@
     "name": "SpiderFoot",
     "source_type": "official_website",
     "url": "https://www.spiderfoot.net/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.intel471.com/"
   },
   {
     "source_id": "spiderfoot-repository",
@@ -597,7 +893,11 @@
     "name": "SpiderFoot",
     "source_type": "repository",
     "url": "https://github.com/smicallef/spiderfoot",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/smicallef/spiderfoot"
   },
   {
     "source_id": "spiderfoot-documentation",
@@ -605,7 +905,11 @@
     "name": "SpiderFoot",
     "source_type": "documentation",
     "url": "https://github.com/smicallef/spiderfoot/wiki",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/smicallef/spiderfoot"
   },
   {
     "source_id": "spiderfoot-download",
@@ -613,7 +917,11 @@
     "name": "SpiderFoot",
     "source_type": "download",
     "url": "https://github.com/smicallef/spiderfoot/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/smicallef/spiderfoot/releases"
   },
   {
     "source_id": "theharvester-official_website",
@@ -621,7 +929,11 @@
     "name": "theHarvester",
     "source_type": "official_website",
     "url": "https://github.com/laramies/theHarvester",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/laramies/theHarvester"
   },
   {
     "source_id": "theharvester-repository",
@@ -629,7 +941,11 @@
     "name": "theHarvester",
     "source_type": "repository",
     "url": "https://github.com/laramies/theHarvester",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/laramies/theHarvester"
   },
   {
     "source_id": "theharvester-documentation",
@@ -637,7 +953,11 @@
     "name": "theHarvester",
     "source_type": "documentation",
     "url": "https://github.com/laramies/theHarvester/wiki",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/laramies/theHarvester/wiki"
   },
   {
     "source_id": "owasp-amass-official_website",
@@ -645,7 +965,11 @@
     "name": "OWASP Amass",
     "source_type": "official_website",
     "url": "https://owasp.org/www-project-amass/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://owasp.org/projects/amass"
   },
   {
     "source_id": "owasp-amass-repository",
@@ -653,7 +977,11 @@
     "name": "OWASP Amass",
     "source_type": "repository",
     "url": "https://github.com/owasp-amass/amass",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/owasp-amass/amass"
   },
   {
     "source_id": "owasp-amass-documentation",
@@ -661,7 +989,11 @@
     "name": "OWASP Amass",
     "source_type": "documentation",
     "url": "https://github.com/owasp-amass/amass/wiki",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/owasp-amass/amass/wiki"
   },
   {
     "source_id": "osint-framework-official_website",
@@ -669,7 +1001,11 @@
     "name": "OSINT Framework",
     "source_type": "official_website",
     "url": "https://osintframework.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://osintframework.com/"
   },
   {
     "source_id": "osint-framework-repository",
@@ -677,7 +1013,11 @@
     "name": "OSINT Framework",
     "source_type": "repository",
     "url": "https://github.com/lockfale/OSINT-Framework",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/lockfale/OSINT-Framework"
   },
   {
     "source_id": "osint-framework-documentation",
@@ -685,7 +1025,11 @@
     "name": "OSINT Framework",
     "source_type": "documentation",
     "url": "https://github.com/lockfale/OSINT-Framework",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/lockfale/OSINT-Framework"
   },
   {
     "source_id": "autopsy-official_website",
@@ -693,7 +1037,11 @@
     "name": "Autopsy",
     "source_type": "official_website",
     "url": "https://www.autopsy.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.autopsy.com/"
   },
   {
     "source_id": "autopsy-repository",
@@ -701,7 +1049,11 @@
     "name": "Autopsy",
     "source_type": "repository",
     "url": "https://github.com/sleuthkit/autopsy",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sleuthkit/autopsy"
   },
   {
     "source_id": "autopsy-documentation",
@@ -709,7 +1061,11 @@
     "name": "Autopsy",
     "source_type": "documentation",
     "url": "https://sleuthkit.org/autopsy/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://sleuthkit.org/autopsy/docs/"
   },
   {
     "source_id": "autopsy-download",
@@ -717,7 +1073,11 @@
     "name": "Autopsy",
     "source_type": "download",
     "url": "https://www.autopsy.com/download/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.autopsy.com/download/"
   },
   {
     "source_id": "volatility3-official_website",
@@ -725,7 +1085,11 @@
     "name": "Volatility 3",
     "source_type": "official_website",
     "url": "https://volatilityfoundation.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://volatilityfoundation.org/"
   },
   {
     "source_id": "volatility3-repository",
@@ -733,7 +1097,11 @@
     "name": "Volatility 3",
     "source_type": "repository",
     "url": "https://github.com/volatilityfoundation/volatility3",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/volatilityfoundation/volatility3"
   },
   {
     "source_id": "volatility3-documentation",
@@ -741,7 +1109,11 @@
     "name": "Volatility 3",
     "source_type": "documentation",
     "url": "https://volatility3.readthedocs.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://volatility3.readthedocs.io/en/stable/"
   },
   {
     "source_id": "volatility3-download",
@@ -749,7 +1121,11 @@
     "name": "Volatility 3",
     "source_type": "download",
     "url": "https://github.com/volatilityfoundation/volatility3/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/volatilityfoundation/volatility3/releases"
   },
   {
     "source_id": "sleuth-kit-official_website",
@@ -757,7 +1133,11 @@
     "name": "The Sleuth Kit",
     "source_type": "official_website",
     "url": "https://www.sleuthkit.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.sleuthkit.org/"
   },
   {
     "source_id": "sleuth-kit-repository",
@@ -765,7 +1145,11 @@
     "name": "The Sleuth Kit",
     "source_type": "repository",
     "url": "https://github.com/sleuthkit/sleuthkit",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sleuthkit/sleuthkit"
   },
   {
     "source_id": "sleuth-kit-documentation",
@@ -773,7 +1157,11 @@
     "name": "The Sleuth Kit",
     "source_type": "documentation",
     "url": "https://www.sleuthkit.org/sleuthkit/docs.php",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.sleuthkit.org/sleuthkit/docs.php"
   },
   {
     "source_id": "sleuth-kit-download",
@@ -781,7 +1169,11 @@
     "name": "The Sleuth Kit",
     "source_type": "download",
     "url": "https://github.com/sleuthkit/sleuthkit/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/sleuthkit/sleuthkit/releases"
   },
   {
     "source_id": "velociraptor-official_website",
@@ -789,7 +1181,11 @@
     "name": "Velociraptor",
     "source_type": "official_website",
     "url": "https://docs.velociraptor.app/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.velociraptor.app/"
   },
   {
     "source_id": "velociraptor-repository",
@@ -797,7 +1193,11 @@
     "name": "Velociraptor",
     "source_type": "repository",
     "url": "https://github.com/Velocidex/velociraptor",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/Velocidex/velociraptor"
   },
   {
     "source_id": "velociraptor-documentation",
@@ -805,7 +1205,11 @@
     "name": "Velociraptor",
     "source_type": "documentation",
     "url": "https://docs.velociraptor.app/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.velociraptor.app/"
   },
   {
     "source_id": "velociraptor-download",
@@ -813,7 +1217,11 @@
     "name": "Velociraptor",
     "source_type": "download",
     "url": "https://github.com/Velocidex/velociraptor/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/Velocidex/velociraptor/releases"
   },
   {
     "source_id": "yara-official_website",
@@ -821,7 +1229,11 @@
     "name": "YARA",
     "source_type": "official_website",
     "url": "https://virustotal.github.io/yara/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://virustotal.github.io/yara/"
   },
   {
     "source_id": "yara-repository",
@@ -829,7 +1241,11 @@
     "name": "YARA",
     "source_type": "repository",
     "url": "https://github.com/VirusTotal/yara",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/VirusTotal/yara"
   },
   {
     "source_id": "yara-documentation",
@@ -837,7 +1253,11 @@
     "name": "YARA",
     "source_type": "documentation",
     "url": "https://yara.readthedocs.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://yara.readthedocs.io/en/latest/"
   },
   {
     "source_id": "yara-download",
@@ -845,7 +1265,11 @@
     "name": "YARA",
     "source_type": "download",
     "url": "https://github.com/VirusTotal/yara/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/VirusTotal/yara/releases"
   },
   {
     "source_id": "ghidra-official_website",
@@ -853,7 +1277,11 @@
     "name": "Ghidra",
     "source_type": "official_website",
     "url": "https://ghidra-sre.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
     "source_id": "ghidra-repository",
@@ -861,15 +1289,23 @@
     "name": "Ghidra",
     "source_type": "repository",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/NationalSecurityAgency/ghidra"
   },
   {
     "source_id": "ghidra-documentation",
     "record_id": "ghidra",
     "name": "Ghidra",
     "source_type": "documentation",
-    "url": "https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Documentation",
-    "verification_status": "pending_live_check"
+    "url": "https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md",
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md"
   },
   {
     "source_id": "ghidra-download",
@@ -877,7 +1313,11 @@
     "name": "Ghidra",
     "source_type": "download",
     "url": "https://github.com/NationalSecurityAgency/ghidra/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/NationalSecurityAgency/ghidra/releases"
   },
   {
     "source_id": "cape-sandbox-official_website",
@@ -885,7 +1325,11 @@
     "name": "CAPE Sandbox",
     "source_type": "official_website",
     "url": "https://capev2.readthedocs.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://capev2.readthedocs.io/en/latest/"
   },
   {
     "source_id": "cape-sandbox-repository",
@@ -893,7 +1337,11 @@
     "name": "CAPE Sandbox",
     "source_type": "repository",
     "url": "https://github.com/kevoreilly/CAPEv2",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/kevoreilly/CAPEv2"
   },
   {
     "source_id": "cape-sandbox-documentation",
@@ -901,7 +1349,11 @@
     "name": "CAPE Sandbox",
     "source_type": "documentation",
     "url": "https://capev2.readthedocs.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://capev2.readthedocs.io/en/latest/"
   },
   {
     "source_id": "cape-sandbox-download",
@@ -909,7 +1361,11 @@
     "name": "CAPE Sandbox",
     "source_type": "download",
     "url": "https://github.com/kevoreilly/CAPEv2/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/kevoreilly/CAPEv2/releases"
   },
   {
     "source_id": "cuckoo-sandbox-official_website",
@@ -917,7 +1373,11 @@
     "name": "Cuckoo Sandbox",
     "source_type": "official_website",
     "url": "https://cuckoosandbox.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://cuckoosandbox.org/"
   },
   {
     "source_id": "cuckoo-sandbox-repository",
@@ -925,7 +1385,11 @@
     "name": "Cuckoo Sandbox",
     "source_type": "repository",
     "url": "https://github.com/cuckoosandbox/cuckoo",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/cuckoosandbox/cuckoo"
   },
   {
     "source_id": "cuckoo-sandbox-documentation",
@@ -933,7 +1397,11 @@
     "name": "Cuckoo Sandbox",
     "source_type": "documentation",
     "url": "https://cuckoo.readthedocs.io/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://cuckoo.readthedocs.io/en/latest/"
   },
   {
     "source_id": "cuckoo-sandbox-download",
@@ -941,7 +1409,11 @@
     "name": "Cuckoo Sandbox",
     "source_type": "download",
     "url": "https://github.com/cuckoosandbox/cuckoo/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/cuckoosandbox/cuckoo/releases"
   },
   {
     "source_id": "virustotal-official_website",
@@ -949,7 +1421,11 @@
     "name": "VirusTotal",
     "source_type": "official_website",
     "url": "https://www.virustotal.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.virustotal.com:443/gui/"
   },
   {
     "source_id": "virustotal-documentation",
@@ -957,7 +1433,11 @@
     "name": "VirusTotal",
     "source_type": "documentation",
     "url": "https://docs.virustotal.com/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.virustotal.com/"
   },
   {
     "source_id": "virustotal-download",
@@ -965,7 +1445,11 @@
     "name": "VirusTotal",
     "source_type": "download",
     "url": "https://www.virustotal.com/gui/join-us",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.virustotal.com/gui/join-us"
   },
   {
     "source_id": "openssl-official_website",
@@ -973,7 +1457,11 @@
     "name": "OpenSSL",
     "source_type": "official_website",
     "url": "https://www.openssl.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.openssl.org/"
   },
   {
     "source_id": "openssl-repository",
@@ -981,7 +1469,11 @@
     "name": "OpenSSL",
     "source_type": "repository",
     "url": "https://github.com/openssl/openssl",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/openssl/openssl"
   },
   {
     "source_id": "openssl-documentation",
@@ -989,7 +1481,11 @@
     "name": "OpenSSL",
     "source_type": "documentation",
     "url": "https://docs.openssl.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://docs.openssl.org/"
   },
   {
     "source_id": "openssl-download",
@@ -997,7 +1493,11 @@
     "name": "OpenSSL",
     "source_type": "download",
     "url": "https://www.openssl.org/source/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://openssl-library.org:443/source/"
   },
   {
     "source_id": "gnupg-official_website",
@@ -1005,7 +1505,11 @@
     "name": "GnuPG",
     "source_type": "official_website",
     "url": "https://gnupg.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gnupg.org/"
   },
   {
     "source_id": "gnupg-repository",
@@ -1013,7 +1517,11 @@
     "name": "GnuPG",
     "source_type": "repository",
     "url": "https://github.com/gpg/gnupg",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/gpg/gnupg"
   },
   {
     "source_id": "gnupg-documentation",
@@ -1021,7 +1529,11 @@
     "name": "GnuPG",
     "source_type": "documentation",
     "url": "https://gnupg.org/documentation/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gnupg.org/documentation/"
   },
   {
     "source_id": "gnupg-download",
@@ -1029,7 +1541,11 @@
     "name": "GnuPG",
     "source_type": "download",
     "url": "https://gnupg.org/download/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://gnupg.org/download/"
   },
   {
     "source_id": "veracrypt-official_website",
@@ -1037,7 +1553,11 @@
     "name": "VeraCrypt",
     "source_type": "official_website",
     "url": "https://www.veracrypt.fr/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://veracrypt.io//"
   },
   {
     "source_id": "veracrypt-repository",
@@ -1045,7 +1565,11 @@
     "name": "VeraCrypt",
     "source_type": "repository",
     "url": "https://github.com/veracrypt/VeraCrypt",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/veracrypt/VeraCrypt"
   },
   {
     "source_id": "veracrypt-documentation",
@@ -1053,7 +1577,11 @@
     "name": "VeraCrypt",
     "source_type": "documentation",
     "url": "https://www.veracrypt.fr/en/Documentation.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://veracrypt.io//en/Documentation.html"
   },
   {
     "source_id": "veracrypt-download",
@@ -1061,7 +1589,11 @@
     "name": "VeraCrypt",
     "source_type": "download",
     "url": "https://www.veracrypt.fr/en/Downloads.html",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://veracrypt.io//en/Downloads.html"
   },
   {
     "source_id": "keepassxc-official_website",
@@ -1069,7 +1601,11 @@
     "name": "KeePassXC",
     "source_type": "official_website",
     "url": "https://keepassxc.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://keepassxc.org/"
   },
   {
     "source_id": "keepassxc-repository",
@@ -1077,7 +1613,11 @@
     "name": "KeePassXC",
     "source_type": "repository",
     "url": "https://github.com/keepassxreboot/keepassxc",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/keepassxreboot/keepassxc"
   },
   {
     "source_id": "keepassxc-documentation",
@@ -1085,7 +1625,11 @@
     "name": "KeePassXC",
     "source_type": "documentation",
     "url": "https://keepassxc.org/docs/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://keepassxc.org/docs/"
   },
   {
     "source_id": "keepassxc-download",
@@ -1093,7 +1637,11 @@
     "name": "KeePassXC",
     "source_type": "download",
     "url": "https://keepassxc.org/download/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://keepassxc.org/download/"
   },
   {
     "source_id": "lynis-official_website",
@@ -1101,7 +1649,11 @@
     "name": "Lynis",
     "source_type": "official_website",
     "url": "https://cisofy.com/lynis/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://cisofy.com/lynis/"
   },
   {
     "source_id": "lynis-repository",
@@ -1109,7 +1661,11 @@
     "name": "Lynis",
     "source_type": "repository",
     "url": "https://github.com/CISOfy/lynis",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/CISOfy/lynis"
   },
   {
     "source_id": "lynis-documentation",
@@ -1117,7 +1673,11 @@
     "name": "Lynis",
     "source_type": "documentation",
     "url": "https://cisofy.com/documentation/lynis/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://cisofy.com/documentation/lynis/"
   },
   {
     "source_id": "lynis-download",
@@ -1125,7 +1685,11 @@
     "name": "Lynis",
     "source_type": "download",
     "url": "https://github.com/CISOfy/lynis/releases",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/CISOfy/lynis/releases"
   },
   {
     "source_id": "mitre-attack-official_website",
@@ -1133,7 +1697,11 @@
     "name": "MITRE ATT&CK",
     "source_type": "official_website",
     "url": "https://attack.mitre.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://attack.mitre.org/"
   },
   {
     "source_id": "mitre-attack-repository",
@@ -1141,7 +1709,11 @@
     "name": "MITRE ATT&CK",
     "source_type": "repository",
     "url": "https://github.com/mitre-attack/attack-stix-data",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/mitre-attack/attack-stix-data"
   },
   {
     "source_id": "mitre-attack-documentation",
@@ -1149,7 +1721,11 @@
     "name": "MITRE ATT&CK",
     "source_type": "documentation",
     "url": "https://attack.mitre.org/resources/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://attack.mitre.org/resources/"
   },
   {
     "source_id": "mitre-attack-download",
@@ -1157,7 +1733,11 @@
     "name": "MITRE ATT&CK",
     "source_type": "download",
     "url": "https://attack.mitre.org/resources/attack-data-and-tools/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://attack.mitre.org/resources/attack-data-and-tools/"
   },
   {
     "source_id": "nist-cybersecurity-official_website",
@@ -1165,7 +1745,11 @@
     "name": "NIST Cybersecurity",
     "source_type": "official_website",
     "url": "https://www.nist.gov/cybersecurity",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.nist.gov/cybersecurity-and-privacy"
   },
   {
     "source_id": "nist-cybersecurity-repository",
@@ -1173,7 +1757,11 @@
     "name": "NIST Cybersecurity",
     "source_type": "repository",
     "url": "https://github.com/usnistgov",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/usnistgov"
   },
   {
     "source_id": "cve-official_website",
@@ -1181,7 +1769,11 @@
     "name": "CVE",
     "source_type": "official_website",
     "url": "https://www.cve.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.cve.org/"
   },
   {
     "source_id": "cve-repository",
@@ -1189,7 +1781,11 @@
     "name": "CVE",
     "source_type": "repository",
     "url": "https://github.com/CVEProject/cve-schema",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/CVEProject/cve-schema"
   },
   {
     "source_id": "cve-documentation",
@@ -1197,7 +1793,11 @@
     "name": "CVE",
     "source_type": "documentation",
     "url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs"
   },
   {
     "source_id": "nvd-official_website",
@@ -1205,15 +1805,11 @@
     "name": "NVD",
     "source_type": "official_website",
     "url": "https://nvd.nist.gov/",
-    "verification_status": "pending_live_check"
-  },
-  {
-    "source_id": "nvd-repository",
-    "record_id": "nvd",
-    "name": "NVD",
-    "source_type": "repository",
-    "url": "https://github.com/usnistgov/nvdtools",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://nvd.nist.gov/"
   },
   {
     "source_id": "nvd-documentation",
@@ -1221,7 +1817,11 @@
     "name": "NVD",
     "source_type": "documentation",
     "url": "https://nvd.nist.gov/developers",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://nvd.nist.gov/developers"
   },
   {
     "source_id": "cisa-kev-official_website",
@@ -1229,7 +1829,11 @@
     "name": "CISA Known Exploited Vulnerabilities Catalog",
     "source_type": "official_website",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
   },
   {
     "source_id": "cisa-kev-repository",
@@ -1237,7 +1841,11 @@
     "name": "CISA Known Exploited Vulnerabilities Catalog",
     "source_type": "repository",
     "url": "https://github.com/cisagov/kev-data",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/cisagov/kev-data"
   },
   {
     "source_id": "cisa-kev-documentation",
@@ -1245,7 +1853,11 @@
     "name": "CISA Known Exploited Vulnerabilities Catalog",
     "source_type": "documentation",
     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
   },
   {
     "source_id": "sans-official_website",
@@ -1253,7 +1865,11 @@
     "name": "SANS",
     "source_type": "official_website",
     "url": "https://www.sans.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.sans.org/"
   },
   {
     "source_id": "sans-documentation",
@@ -1261,7 +1877,11 @@
     "name": "SANS",
     "source_type": "documentation",
     "url": "https://www.sans.org/white-papers/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.sans.org/white-papers"
   },
   {
     "source_id": "secarsenal-official_website",
@@ -1269,7 +1889,11 @@
     "name": "SecArsenal",
     "source_type": "official_website",
     "url": "https://secarsenal.org/",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://secarsenal.org/"
   },
   {
     "source_id": "github-topic-cybersecurity-official_website",
@@ -1277,7 +1901,11 @@
     "name": "GitHub topic: cybersecurity",
     "source_type": "official_website",
     "url": "https://github.com/topics/cybersecurity",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/topics/cybersecurity"
   },
   {
     "source_id": "github-topic-security-tools-official_website",
@@ -1285,7 +1913,11 @@
     "name": "GitHub topic: security-tools",
     "source_type": "official_website",
     "url": "https://github.com/topics/security-tools",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/topics/security-tools"
   },
   {
     "source_id": "github-topic-digital-forensics-official_website",
@@ -1293,7 +1925,11 @@
     "name": "GitHub topic: digital-forensics",
     "source_type": "official_website",
     "url": "https://github.com/topics/digital-forensics",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/topics/digital-forensics"
   },
   {
     "source_id": "github-topic-malware-analysis-official_website",
@@ -1301,7 +1937,11 @@
     "name": "GitHub topic: malware-analysis",
     "source_type": "official_website",
     "url": "https://github.com/topics/malware-analysis",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/topics/malware-analysis"
   },
   {
     "source_id": "github-topic-network-security-official_website",
@@ -1309,7 +1949,11 @@
     "name": "GitHub topic: network-security",
     "source_type": "official_website",
     "url": "https://github.com/topics/network-security",
-    "verification_status": "pending_live_check"
+    "verification_status": "pending_live_check",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/topics/network-security"
   },
   {
     "source_id": "prowler-official_website",
@@ -1317,7 +1961,11 @@
     "name": "Prowler",
     "source_type": "official_website",
     "url": "https://github.com/prowler-cloud/prowler",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/prowler-cloud/prowler"
   },
   {
     "source_id": "prowler-repository",
@@ -1325,7 +1973,11 @@
     "name": "Prowler",
     "source_type": "repository",
     "url": "https://github.com/prowler-cloud/prowler",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/prowler-cloud/prowler"
   },
   {
     "source_id": "mobsf-official_website",
@@ -1333,7 +1985,11 @@
     "name": "MobSF",
     "source_type": "official_website",
     "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
   },
   {
     "source_id": "mobsf-repository",
@@ -1341,7 +1997,11 @@
     "name": "MobSF",
     "source_type": "repository",
     "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
   },
   {
     "source_id": "kismet-official_website",
@@ -1349,7 +2009,11 @@
     "name": "Kismet",
     "source_type": "official_website",
     "url": "https://github.com/kismetwireless/kismet",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/kismetwireless/kismet"
   },
   {
     "source_id": "kismet-repository",
@@ -1357,7 +2021,11 @@
     "name": "Kismet",
     "source_type": "repository",
     "url": "https://github.com/kismetwireless/kismet",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/kismetwireless/kismet"
   },
   {
     "source_id": "osquery-official_website",
@@ -1365,7 +2033,11 @@
     "name": "osquery",
     "source_type": "official_website",
     "url": "https://osquery.io/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://osquery.io/"
   },
   {
     "source_id": "osquery-repository",
@@ -1373,7 +2045,11 @@
     "name": "osquery",
     "source_type": "repository",
     "url": "https://github.com/osquery/osquery",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/osquery/osquery"
   },
   {
     "source_id": "wazuh-official_website",
@@ -1381,7 +2057,11 @@
     "name": "Wazuh",
     "source_type": "official_website",
     "url": "https://wazuh.com/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://wazuh.com/"
   },
   {
     "source_id": "wazuh-repository",
@@ -1389,7 +2069,11 @@
     "name": "Wazuh",
     "source_type": "repository",
     "url": "https://github.com/wazuh/wazuh",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/wazuh/wazuh"
   },
   {
     "source_id": "shuffle-official_website",
@@ -1397,7 +2081,11 @@
     "name": "Shuffle",
     "source_type": "official_website",
     "url": "https://shuffler.io/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://shuffler.io/"
   },
   {
     "source_id": "shuffle-repository",
@@ -1405,7 +2093,11 @@
     "name": "Shuffle",
     "source_type": "repository",
     "url": "https://github.com/Shuffle/Shuffle",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/Shuffle/Shuffle"
   },
   {
     "source_id": "garak-official_website",
@@ -1413,7 +2105,11 @@
     "name": "garak",
     "source_type": "official_website",
     "url": "https://garak.ai/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://garak.ai/"
   },
   {
     "source_id": "garak-repository",
@@ -1421,7 +2117,11 @@
     "name": "garak",
     "source_type": "repository",
     "url": "https://github.com/NVIDIA/garak",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/NVIDIA/garak"
   },
   {
     "source_id": "pgaudit-official_website",
@@ -1429,7 +2129,11 @@
     "name": "pgAudit",
     "source_type": "official_website",
     "url": "https://www.pgaudit.org/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.pgaudit.org/"
   },
   {
     "source_id": "pgaudit-repository",
@@ -1437,7 +2141,11 @@
     "name": "pgAudit",
     "source_type": "repository",
     "url": "https://github.com/pgaudit/pgaudit",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/pgaudit/pgaudit"
   },
   {
     "source_id": "trivy-official_website",
@@ -1445,7 +2153,11 @@
     "name": "Trivy",
     "source_type": "official_website",
     "url": "https://trivy.dev/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://trivy.dev/"
   },
   {
     "source_id": "trivy-repository",
@@ -1453,7 +2165,11 @@
     "name": "Trivy",
     "source_type": "repository",
     "url": "https://github.com/aquasecurity/trivy",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/aquasecurity/trivy"
   },
   {
     "source_id": "keycloak-official_website",
@@ -1461,7 +2177,11 @@
     "name": "Keycloak",
     "source_type": "official_website",
     "url": "https://www.keycloak.org/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://www.keycloak.org/"
   },
   {
     "source_id": "keycloak-repository",
@@ -1469,7 +2189,11 @@
     "name": "Keycloak",
     "source_type": "repository",
     "url": "https://github.com/keycloak/keycloak",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/keycloak/keycloak"
   },
   {
     "source_id": "scorecard-official_website",
@@ -1477,7 +2201,11 @@
     "name": "OpenSSF Scorecard",
     "source_type": "official_website",
     "url": "https://securityscorecards.dev/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://securityscorecards.dev/"
   },
   {
     "source_id": "scorecard-repository",
@@ -1485,7 +2213,11 @@
     "name": "OpenSSF Scorecard",
     "source_type": "repository",
     "url": "https://github.com/ossf/scorecard",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/ossf/scorecard"
   },
   {
     "source_id": "crapi-official_website",
@@ -1493,7 +2225,11 @@
     "name": "OWASP crAPI",
     "source_type": "official_website",
     "url": "https://github.com/OWASP/crAPI",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/OWASP/crAPI"
   },
   {
     "source_id": "crapi-repository",
@@ -1501,7 +2237,11 @@
     "name": "OWASP crAPI",
     "source_type": "repository",
     "url": "https://github.com/OWASP/crAPI",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/OWASP/crAPI"
   },
   {
     "source_id": "thehive-official_website",
@@ -1509,7 +2249,11 @@
     "name": "TheHive",
     "source_type": "official_website",
     "url": "https://thehive-project.org/",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://strangebee.com/"
   },
   {
     "source_id": "thehive-repository",
@@ -1517,6 +2261,10 @@
     "name": "TheHive",
     "source_type": "repository",
     "url": "https://github.com/TheHive-Project/TheHive",
-    "verification_status": "pending"
+    "verification_status": "pending",
+    "last_checked_at": "2026-11-18T21:56:46Z",
+    "last_http_status": 200,
+    "last_check_status": "ok",
+    "final_url": "https://github.com/TheHive-Project/TheHive"
   }
 ]

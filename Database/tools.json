@@ -210,11 +210,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "3.4.0-20261102",
+      "latest_tag": "3.4.0-20261102",
+      "last_repository_update": "2026-11-18T05:50:06Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/Security-Onion-Solutions/securityonion"
     },
     "verification": {
       "status": "pending",
@@ -323,11 +326,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "wireshark-4.4.9",
+      "latest_tag": "wireshark-4.4.9",
+      "last_repository_update": "2026-11-18T19:38:44Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/wireshark/wireshark"
     },
     "verification": {
       "status": "pending",
@@ -379,11 +385,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v7.992",
+      "latest_tag": "v7.992",
+      "last_repository_update": "2026-11-18T20:41:31Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/nmap/nmap"
     },
     "verification": {
       "status": "pending",
@@ -435,11 +444,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v9.0.1",
+      "latest_tag": "v9.0.1",
+      "last_repository_update": "2026-11-18T16:26:21Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/zeek/zeek"
     },
     "verification": {
       "status": "pending",
@@ -461,7 +473,7 @@
     "sources": [
       {
         "role": "official_website",
-        "url": "https://suricata.io/",
+        "url": "https://oisf.net/",
         "verification_status": "user_supplied_or_seeded"
       },
       {
@@ -476,7 +488,7 @@
       },
       {
         "role": "download",
-        "url": "https://suricata.io/download/",
+        "url": "https://github.com/OISF/suricata/releases",
         "verification_status": "user_supplied_or_seeded"
       }
     ],
@@ -491,11 +503,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "8.0.8",
+      "latest_tag": "suricata-8.0.8",
+      "last_repository_update": "2026-11-18T16:26:08Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/OISF/suricata"
     },
     "verification": {
       "status": "pending",
@@ -547,11 +562,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v2.17.0",
+      "latest_tag": "v2.17.0",
+      "last_repository_update": "2026-11-18T19:49:19Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/zaproxy/zaproxy"
     },
     "verification": {
       "status": "pending",
@@ -654,11 +672,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Nikto 2.6.1",
+      "latest_tag": "2.6.1",
+      "last_repository_update": "2026-11-18T13:11:45Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/sullo/nikto"
     },
     "verification": {
       "status": "pending",
@@ -710,11 +731,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v3.11.1",
+      "latest_tag": "v3.11.1",
+      "last_repository_update": "2026-11-18T20:51:05Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/projectdiscovery/nuclei"
     },
     "verification": {
       "status": "pending",
@@ -813,11 +837,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v4.11.7",
+      "latest_tag": "v4.11.7",
+      "last_repository_update": "2026-11-18T19:57:21Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/rapid7/metasploit-framework"
     },
     "verification": {
       "status": "pending",
@@ -869,11 +896,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v23.52.12",
+      "latest_tag": "v23.52.12",
+      "last_repository_update": "2026-11-17T19:31:08Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/greenbone/openvas-scanner"
     },
     "verification": {
       "status": "pending",
@@ -952,12 +982,12 @@
       },
       {
         "role": "repository",
-        "url": "https://github.com/offensive-security/exploitdb",
+        "url": "https://gitlab.com/exploit-database/exploitdb",
         "verification_status": "user_supplied_or_seeded"
       },
       {
         "role": "documentation",
-        "url": "https://www.exploit-db.com/documentation/",
+        "url": "https://www.exploit-db.com/searchsploit",
         "verification_status": "user_supplied_or_seeded"
       }
     ],
@@ -972,11 +1002,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Daily database updates; no conventional release version",
+      "latest_tag": "2026-10-27",
+      "last_repository_update": "2026-10-27",
+      "archived": false,
+      "spdx_license": "GPL-2.0-or-later",
+      "metadata_status": "verified_from_official_gitlab_project",
+      "metadata_checked_at": "2026-11-18T21:53:12Z",
+      "repository_url": "https://gitlab.com/exploit-database/exploitdb"
     },
     "verification": {
       "status": "pending",
@@ -1003,7 +1036,7 @@
       },
       {
         "role": "repository",
-        "url": "https://github.com/Exploitables/searchsploit",
+        "url": "https://gitlab.com/exploit-database/exploitdb",
         "verification_status": "user_supplied_or_seeded"
       },
       {
@@ -1027,7 +1060,10 @@
       "latest_tag": "غير متوفر",
       "last_repository_update": "غير متوفر",
       "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "spdx_license": "غير متوفر",
+      "metadata_status": "not_found_or_unavailable",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "غير متوفر"
     },
     "verification": {
       "status": "pending",
@@ -1130,11 +1166,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v4.0",
+      "latest_tag": "v4.0",
+      "last_repository_update": "2026-11-18T21:23:42Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/smicallef/spiderfoot"
     },
     "verification": {
       "status": "pending",
@@ -1181,11 +1220,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "4.11.1",
+      "latest_tag": "4.11.1",
+      "last_repository_update": "2026-11-18T21:17:59Z",
+      "archived": false,
+      "spdx_license": "GPL-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/laramies/theHarvester"
     },
     "verification": {
       "status": "pending",
@@ -1232,11 +1274,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v5.1.3",
+      "latest_tag": "v5.1.3",
+      "last_repository_update": "2026-11-18T19:32:47Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/owasp-amass/amass"
     },
     "verification": {
       "status": "pending",
@@ -1285,9 +1330,12 @@
     "upstream_metadata": {
       "latest_release": "غير متوفر",
       "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "last_repository_update": "2026-11-18T21:16:36Z",
+      "archived": false,
+      "spdx_license": "MIT",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/lockfale/OSINT-Framework"
     },
     "verification": {
       "status": "pending",
@@ -1339,11 +1387,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Autopsy 4.23.1",
+      "latest_tag": "autopsy-4.23.1",
+      "last_repository_update": "2026-11-18T17:09:44Z",
+      "archived": false,
+      "spdx_license": "غير متوفر",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/sleuthkit/autopsy"
     },
     "verification": {
       "status": "pending",
@@ -1395,11 +1446,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Volatility 3 2.28.2",
+      "latest_tag": "v2.28.2",
+      "last_repository_update": "2026-11-18T19:18:35Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/volatilityfoundation/volatility3"
     },
     "verification": {
       "status": "pending",
@@ -1451,11 +1505,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Sleuth Kit 4.15.0",
+      "latest_tag": "sleuthkit-4.15.0",
+      "last_repository_update": "2026-11-17T19:27:12Z",
+      "archived": false,
+      "spdx_license": "غير متوفر",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/sleuthkit/sleuthkit"
     },
     "verification": {
       "status": "pending",
@@ -1507,11 +1564,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Release 0.77.3",
+      "latest_tag": "v0.77.3",
+      "last_repository_update": "2026-11-18T20:08:17Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/Velocidex/velociraptor"
     },
     "verification": {
       "status": "pending",
@@ -1564,11 +1624,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "YARA v4.6.0",
+      "latest_tag": "v4.6.0",
+      "last_repository_update": "2026-11-18T11:19:54Z",
+      "archived": false,
+      "spdx_license": "BSD-3-Clause",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/VirusTotal/yara"
     },
     "verification": {
       "status": "pending",
@@ -1600,7 +1663,7 @@
       },
       {
         "role": "documentation",
-        "url": "https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Documentation",
+        "url": "https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/GettingStarted.md",
         "verification_status": "user_supplied_or_seeded"
       },
       {
@@ -1620,11 +1683,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Ghidra 12.2",
+      "latest_tag": "Ghidra_12.2_build",
+      "last_repository_update": "2026-11-18T21:42:27Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/NationalSecurityAgency/ghidra"
     },
     "verification": {
       "status": "pending",
@@ -1678,9 +1744,12 @@
     "upstream_metadata": {
       "latest_release": "غير متوفر",
       "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "last_repository_update": "2026-11-18T19:31:25Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/kevoreilly/CAPEv2"
     },
     "verification": {
       "status": "pending",
@@ -1732,11 +1801,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "2.0.6 release",
+      "latest_tag": "2.0.6",
+      "last_repository_update": "2026-11-18T07:59:54Z",
+      "archived": true,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/cuckoosandbox/cuckoo"
     },
     "verification": {
       "status": "pending",
@@ -1840,11 +1912,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "OpenSSL 4.1.0",
+      "latest_tag": "openssl-4.1.0",
+      "last_repository_update": "2026-11-18T21:25:48Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/openssl/openssl"
     },
     "verification": {
       "status": "pending",
@@ -1896,11 +1971,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "post-nuke-of-trailing-ws",
+      "latest_tag": "post-nuke-of-trailing-ws",
+      "last_repository_update": "2026-11-17T21:03:00Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/gpg/gnupg"
     },
     "verification": {
       "status": "pending",
@@ -1952,11 +2030,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "VeraCrypt 1.26.31",
+      "latest_tag": "VeraCrypt_1.26.31",
+      "last_repository_update": "2026-11-18T20:05:27Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/veracrypt/VeraCrypt"
     },
     "verification": {
       "status": "pending",
@@ -2008,11 +2089,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Release 2.8.0",
+      "latest_tag": "2.8.0",
+      "last_repository_update": "2026-11-18T19:45:39Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/keepassxreboot/keepassxc"
     },
     "verification": {
       "status": "pending",
@@ -2065,11 +2149,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Lynis 3.1.7",
+      "latest_tag": "3.1.7",
+      "last_repository_update": "2026-11-18T21:53:27Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/CISOfy/lynis"
     },
     "verification": {
       "status": "pending",
@@ -2121,11 +2208,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "ATT&CK version 20.1",
+      "latest_tag": "v20.1",
+      "last_repository_update": "2026-11-18T04:59:17Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/mitre-attack/attack-stix-data"
     },
     "verification": {
       "status": "pending",
@@ -2218,11 +2308,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "CVE Record Format version 5.2.0",
+      "latest_tag": "v5.2.0",
+      "last_repository_update": "2026-11-14T23:12:34Z",
+      "archived": false,
+      "spdx_license": "CC0-1.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/CVEProject/cve-schema"
     },
     "verification": {
       "status": "pending",
@@ -2248,11 +2341,6 @@
         "verification_status": "user_supplied_or_seeded"
       },
       {
-        "role": "repository",
-        "url": "https://github.com/usnistgov/nvdtools",
-        "verification_status": "user_supplied_or_seeded"
-      },
-      {
         "role": "documentation",
         "url": "https://nvd.nist.gov/developers",
         "verification_status": "user_supplied_or_seeded"
@@ -2273,7 +2361,10 @@
       "latest_tag": "غير متوفر",
       "last_repository_update": "غير متوفر",
       "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "spdx_license": "غير متوفر",
+      "metadata_status": "not_found_or_unavailable",
+      "metadata_checked_at": "2026-11-18T21:51:01Z",
+      "repository_url": "غير متوفر"
     },
     "verification": {
       "status": "pending",
@@ -2322,9 +2413,12 @@
     "upstream_metadata": {
       "latest_release": "غير متوفر",
       "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "last_repository_update": "2026-11-18T21:55:36Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/cisagov/kev-data"
     },
     "verification": {
       "status": "pending",
@@ -2658,11 +2752,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Prowler 5.50.0",
+      "latest_tag": "5.50.0",
+      "last_repository_update": "2026-11-18T20:40:51Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/prowler-cloud/prowler"
     },
     "verification": {
       "status": "pending",
@@ -2704,11 +2801,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v4.6.9",
+      "latest_tag": "v4.6.9",
+      "last_repository_update": "2026-11-18T20:15:48Z",
+      "archived": false,
+      "spdx_license": "GPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF"
     },
     "verification": {
       "status": "pending",
@@ -2750,11 +2850,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "kismet-old-2009-05-R1",
+      "latest_tag": "kismet-old-2009-05-R1",
+      "last_repository_update": "2026-11-18T07:38:40Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/kismetwireless/kismet"
     },
     "verification": {
       "status": "pending",
@@ -2796,11 +2899,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "5.24.1",
+      "latest_tag": "5.24.1",
+      "last_repository_update": "2026-11-18T18:31:29Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/osquery/osquery"
     },
     "verification": {
       "status": "pending",
@@ -2843,11 +2949,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Wazuh v4.14.10",
+      "latest_tag": "v4.14.10",
+      "last_repository_update": "2026-11-18T21:47:53Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/wazuh/wazuh"
     },
     "verification": {
       "status": "pending",
@@ -2889,11 +2998,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v2.3.0",
+      "latest_tag": "v2.3.0",
+      "last_repository_update": "2026-11-18T21:46:12Z",
+      "archived": false,
+      "spdx_license": "AGPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/Shuffle/Shuffle"
     },
     "verification": {
       "status": "pending",
@@ -2935,11 +3047,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v0.17.1",
+      "latest_tag": "v0.17.1",
+      "last_repository_update": "2026-11-18T20:40:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/NVIDIA/garak"
     },
     "verification": {
       "status": "pending",
@@ -2981,11 +3096,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "pgAudit 19.0 (PostgreSQL 19)",
+      "latest_tag": "19.0",
+      "last_repository_update": "2026-11-18T18:26:55Z",
+      "archived": false,
+      "spdx_license": "NOASSERTION",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/pgaudit/pgaudit"
     },
     "verification": {
       "status": "pending",
@@ -3028,11 +3146,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v0.76.2",
+      "latest_tag": "v0.76.2",
+      "last_repository_update": "2026-11-18T21:47:55Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/aquasecurity/trivy"
     },
     "verification": {
       "status": "pending",
@@ -3074,11 +3195,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "26.8.2",
+      "latest_tag": "26.8.2",
+      "last_repository_update": "2026-11-18T21:17:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/keycloak/keycloak"
     },
     "verification": {
       "status": "pending",
@@ -3120,11 +3244,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "v5.6.0",
+      "latest_tag": "v5.6.0",
+      "last_repository_update": "2026-11-18T06:30:24Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/ossf/scorecard"
     },
     "verification": {
       "status": "pending",
@@ -3166,11 +3293,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "Release 1.1.6",
+      "latest_tag": "v1.1.6",
+      "last_repository_update": "2026-11-18T14:43:08Z",
+      "archived": false,
+      "spdx_license": "Apache-2.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/OWASP/crAPI"
     },
     "verification": {
       "status": "pending",
@@ -3213,11 +3343,14 @@
     "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
     "alternatives": "غير متوفر — بانتظار التحقق",
     "upstream_metadata": {
-      "latest_release": "غير متوفر",
-      "latest_tag": "غير متوفر",
-      "last_repository_update": "غير متوفر",
-      "archived": "غير متوفر",
-      "spdx_license": "غير متوفر"
+      "latest_release": "4.1.24",
+      "latest_tag": "4.1.24",
+      "last_repository_update": "2026-11-16T23:03:23Z",
+      "archived": true,
+      "spdx_license": "AGPL-3.0",
+      "metadata_status": "ok",
+      "metadata_checked_at": "2026-11-18T21:56:46Z",
+      "repository_url": "https://github.com/TheHive-Project/TheHive"
     },
     "verification": {
       "status": "pending",
