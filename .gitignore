@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+Downloads/
+*.exe
+*.dll
+*.bin
+*.iso
+*.ova
+*.pcap
+*.mem
+*.raw

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "01-security-distributions",
+    "directory": "01-Security-Distributions",
+    "name_ar": "أنظمة الأمن السيبراني",
+    "sort_order": 1,
+    "tool_ids": [
+      "kali-linux",
+      "parrot-security",
+      "blackarch-linux",
+      "security-onion",
+      "remnux"
+    ]
+  },
+  {
+    "id": "02-network-security",
+    "directory": "02-Network-Security",
+    "name_ar": "أمن الشبكات وتحليلها",
+    "sort_order": 2,
+    "tool_ids": [
+      "wireshark",
+      "nmap",
+      "zeek",
+      "suricata"
+    ]
+  },
+  {
+    "id": "03-web-security",
+    "directory": "03-Web-Security",
+    "name_ar": "أمن تطبيقات الويب",
+    "sort_order": 3,
+    "tool_ids": [
+      "owasp-zap",
+      "burp-suite",
+      "nikto",
+      "nuclei",
+      "owasp",
+      "crapi"
+    ]
+  },
+  {
+    "id": "04-vulnerability-assessment",
+    "directory": "04-Vulnerability-Assessment",
+    "name_ar": "تقييم الثغرات واختبار الأمان",
+    "sort_order": 4,
+    "tool_ids": [
+      "metasploit-framework",
+      "greenbone-openvas",
+      "nessus",
+      "exploit-db",
+      "searchsploit"
+    ]
+  },
+  {
+    "id": "05-osint",
+    "directory": "05-OSINT",
+    "name_ar": "استخبارات المصادر المفتوحة",
+    "sort_order": 5,
+    "tool_ids": [
+      "maltego",
+      "spiderfoot",
+      "theharvester",
+      "owasp-amass",
+      "osint-framework"
+    ]
+  },
+  {
+    "id": "06-digital-forensics",
+    "directory": "06-Digital-Forensics",
+    "name_ar": "التحليل الجنائي الرقمي والاستجابة للحوادث",
+    "sort_order": 6,
+    "tool_ids": [
+      "autopsy",
+      "volatility3",
+      "sleuth-kit",
+      "velociraptor",
+      "yara",
+      "thehive"
+    ]
+  },
+  {
+    "id": "07-malware-analysis",
+    "directory": "07-Malware-Analysis",
+    "name_ar": "تحليل البرمجيات الخبيثة والهندسة العكسية",
+    "sort_order": 7,
+    "tool_ids": [
+      "remnux",
+      "yara",
+      "ghidra",
+      "cape-sandbox",
+      "cuckoo-sandbox",
+      "virustotal"
+    ]
+  },
+  {
+    "id": "08-cryptography",
+    "directory": "08-Cryptography",
+    "name_ar": "التشفير وحماية الأنظمة",
+    "sort_order": 8,
+    "tool_ids": [
+      "openssl",
+      "gnupg",
+      "veracrypt",
+      "keepassxc",
+      "lynis"
+    ]
+  },
+  {
+    "id": "09-security-standards",
+    "directory": "09-Security-Standards",
+    "name_ar": "قواعد البيانات والمعايير الأمنية",
+    "sort_order": 9,
+    "tool_ids": [
+      "owasp",
+      "exploit-db",
+      "virustotal",
+      "mitre-attack",
+      "nist-cybersecurity",
+      "cve",
+      "nvd",
+      "cisa-kev",
+      "sans",
+      "secarsenal",
+      "github-topic-cybersecurity",
+      "github-topic-security-tools",
+      "github-topic-digital-forensics",
+      "github-topic-malware-analysis",
+      "github-topic-network-security"
+    ]
+  },
+  {
+    "id": "10-cloud-security",
+    "directory": "10-Cloud-Security",
+    "name_ar": "أمن الحوسبة السحابية",
+    "sort_order": 10,
+    "tool_ids": [
+      "prowler",
+      "trivy"
+    ]
+  },
+  {
+    "id": "11-mobile-security",
+    "directory": "11-Mobile-Security",
+    "name_ar": "أمن الأجهزة المحمولة",
+    "sort_order": 11,
+    "tool_ids": [
+      "mobsf"
+    ]
+  },
+  {
+    "id": "12-wireless-security",
+    "directory": "12-Wireless-Security",
+    "name_ar": "أمن الشبكات اللاسلكية",
+    "sort_order": 12,
+    "tool_ids": [
+      "kismet"
+    ]
+  },
+  {
+    "id": "13-system-defense",
+    "directory": "13-System-Defense",
+    "name_ar": "الدفاع عن Linux وWindows والأنظمة",
+    "sort_order": 13,
+    "tool_ids": [
+      "lynis",
+      "osquery",
+      "wazuh",
+      "pgaudit",
+      "trivy",
+      "keycloak",
+      "scorecard"
+    ]
+  },
+  {
+    "id": "14-siem-soar",
+    "directory": "14-SIEM-SOAR",
+    "name_ar": "المراقبة الأمنية وSIEM وSOAR",
+    "sort_order": 14,
+    "tool_ids": [
+      "wazuh",
+      "shuffle",
+      "thehive"
+    ]
+  },
+  {
+    "id": "15-ai-security",
+    "directory": "15-AI-Security",
+    "name_ar": "أمن الذكاء الاصطناعي ونماذج اللغة",
+    "sort_order": 15,
+    "tool_ids": [
+      "garak"
+    ]
+  }
+]

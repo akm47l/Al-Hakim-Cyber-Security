@@ -1,0 +1,1522 @@
+[
+  {
+    "source_id": "kali-linux-official_website",
+    "record_id": "kali-linux",
+    "name": "Kali Linux",
+    "source_type": "official_website",
+    "url": "https://www.kali.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "kali-linux-repository",
+    "record_id": "kali-linux",
+    "name": "Kali Linux",
+    "source_type": "repository",
+    "url": "https://gitlab.com/kalilinux",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "kali-linux-documentation",
+    "record_id": "kali-linux",
+    "name": "Kali Linux",
+    "source_type": "documentation",
+    "url": "https://www.kali.org/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "kali-linux-download",
+    "record_id": "kali-linux",
+    "name": "Kali Linux",
+    "source_type": "download",
+    "url": "https://www.kali.org/get-kali/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "parrot-security-official_website",
+    "record_id": "parrot-security",
+    "name": "Parrot Security",
+    "source_type": "official_website",
+    "url": "https://parrotsec.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "parrot-security-repository",
+    "record_id": "parrot-security",
+    "name": "Parrot Security",
+    "source_type": "repository",
+    "url": "https://github.com/ParrotSec",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "parrot-security-documentation",
+    "record_id": "parrot-security",
+    "name": "Parrot Security",
+    "source_type": "documentation",
+    "url": "https://parrotsec.org/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "parrot-security-download",
+    "record_id": "parrot-security",
+    "name": "Parrot Security",
+    "source_type": "download",
+    "url": "https://parrotsec.org/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "blackarch-linux-official_website",
+    "record_id": "blackarch-linux",
+    "name": "BlackArch Linux",
+    "source_type": "official_website",
+    "url": "https://blackarch.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "blackarch-linux-repository",
+    "record_id": "blackarch-linux",
+    "name": "BlackArch Linux",
+    "source_type": "repository",
+    "url": "https://github.com/BlackArch",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "blackarch-linux-documentation",
+    "record_id": "blackarch-linux",
+    "name": "BlackArch Linux",
+    "source_type": "documentation",
+    "url": "https://blackarch.org/guide.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "blackarch-linux-download",
+    "record_id": "blackarch-linux",
+    "name": "BlackArch Linux",
+    "source_type": "download",
+    "url": "https://blackarch.org/download.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "security-onion-official_website",
+    "record_id": "security-onion",
+    "name": "Security Onion",
+    "source_type": "official_website",
+    "url": "https://securityonionsolutions.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "security-onion-repository",
+    "record_id": "security-onion",
+    "name": "Security Onion",
+    "source_type": "repository",
+    "url": "https://github.com/Security-Onion-Solutions/securityonion",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "security-onion-documentation",
+    "record_id": "security-onion",
+    "name": "Security Onion",
+    "source_type": "documentation",
+    "url": "https://docs.securityonion.net/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "security-onion-download",
+    "record_id": "security-onion",
+    "name": "Security Onion",
+    "source_type": "download",
+    "url": "https://securityonionsolutions.com/software/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "remnux-official_website",
+    "record_id": "remnux",
+    "name": "REMnux",
+    "source_type": "official_website",
+    "url": "https://remnux.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "remnux-repository",
+    "record_id": "remnux",
+    "name": "REMnux",
+    "source_type": "repository",
+    "url": "https://github.com/REMnux",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "remnux-documentation",
+    "record_id": "remnux",
+    "name": "REMnux",
+    "source_type": "documentation",
+    "url": "https://docs.remnux.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "remnux-download",
+    "record_id": "remnux",
+    "name": "REMnux",
+    "source_type": "download",
+    "url": "https://remnux.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "wireshark-official_website",
+    "record_id": "wireshark",
+    "name": "Wireshark",
+    "source_type": "official_website",
+    "url": "https://www.wireshark.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "wireshark-repository",
+    "record_id": "wireshark",
+    "name": "Wireshark",
+    "source_type": "repository",
+    "url": "https://github.com/wireshark/wireshark",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "wireshark-documentation",
+    "record_id": "wireshark",
+    "name": "Wireshark",
+    "source_type": "documentation",
+    "url": "https://www.wireshark.org/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "wireshark-download",
+    "record_id": "wireshark",
+    "name": "Wireshark",
+    "source_type": "download",
+    "url": "https://www.wireshark.org/download.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nmap-official_website",
+    "record_id": "nmap",
+    "name": "Nmap",
+    "source_type": "official_website",
+    "url": "https://nmap.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nmap-repository",
+    "record_id": "nmap",
+    "name": "Nmap",
+    "source_type": "repository",
+    "url": "https://github.com/nmap/nmap",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nmap-documentation",
+    "record_id": "nmap",
+    "name": "Nmap",
+    "source_type": "documentation",
+    "url": "https://nmap.org/book/man.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nmap-download",
+    "record_id": "nmap",
+    "name": "Nmap",
+    "source_type": "download",
+    "url": "https://nmap.org/download.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "zeek-official_website",
+    "record_id": "zeek",
+    "name": "Zeek",
+    "source_type": "official_website",
+    "url": "https://zeek.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "zeek-repository",
+    "record_id": "zeek",
+    "name": "Zeek",
+    "source_type": "repository",
+    "url": "https://github.com/zeek/zeek",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "zeek-documentation",
+    "record_id": "zeek",
+    "name": "Zeek",
+    "source_type": "documentation",
+    "url": "https://docs.zeek.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "zeek-download",
+    "record_id": "zeek",
+    "name": "Zeek",
+    "source_type": "download",
+    "url": "https://zeek.org/get-zeek/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "suricata-official_website",
+    "record_id": "suricata",
+    "name": "Suricata",
+    "source_type": "official_website",
+    "url": "https://suricata.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "suricata-repository",
+    "record_id": "suricata",
+    "name": "Suricata",
+    "source_type": "repository",
+    "url": "https://github.com/OISF/suricata",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "suricata-documentation",
+    "record_id": "suricata",
+    "name": "Suricata",
+    "source_type": "documentation",
+    "url": "https://docs.suricata.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "suricata-download",
+    "record_id": "suricata",
+    "name": "Suricata",
+    "source_type": "download",
+    "url": "https://suricata.io/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-zap-official_website",
+    "record_id": "owasp-zap",
+    "name": "OWASP ZAP",
+    "source_type": "official_website",
+    "url": "https://www.zaproxy.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-zap-repository",
+    "record_id": "owasp-zap",
+    "name": "OWASP ZAP",
+    "source_type": "repository",
+    "url": "https://github.com/zaproxy/zaproxy",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-zap-documentation",
+    "record_id": "owasp-zap",
+    "name": "OWASP ZAP",
+    "source_type": "documentation",
+    "url": "https://www.zaproxy.org/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-zap-download",
+    "record_id": "owasp-zap",
+    "name": "OWASP ZAP",
+    "source_type": "download",
+    "url": "https://www.zaproxy.org/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "burp-suite-official_website",
+    "record_id": "burp-suite",
+    "name": "Burp Suite",
+    "source_type": "official_website",
+    "url": "https://portswigger.net/burp",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "burp-suite-documentation",
+    "record_id": "burp-suite",
+    "name": "Burp Suite",
+    "source_type": "documentation",
+    "url": "https://portswigger.net/burp/documentation",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "burp-suite-download",
+    "record_id": "burp-suite",
+    "name": "Burp Suite",
+    "source_type": "download",
+    "url": "https://portswigger.net/burp/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nikto-official_website",
+    "record_id": "nikto",
+    "name": "Nikto",
+    "source_type": "official_website",
+    "url": "https://cirt.net/Nikto2",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nikto-repository",
+    "record_id": "nikto",
+    "name": "Nikto",
+    "source_type": "repository",
+    "url": "https://github.com/sullo/nikto",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nikto-documentation",
+    "record_id": "nikto",
+    "name": "Nikto",
+    "source_type": "documentation",
+    "url": "https://github.com/sullo/nikto/wiki",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nikto-download",
+    "record_id": "nikto",
+    "name": "Nikto",
+    "source_type": "download",
+    "url": "https://github.com/sullo/nikto",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nuclei-official_website",
+    "record_id": "nuclei",
+    "name": "Nuclei",
+    "source_type": "official_website",
+    "url": "https://projectdiscovery.io/nuclei",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nuclei-repository",
+    "record_id": "nuclei",
+    "name": "Nuclei",
+    "source_type": "repository",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nuclei-documentation",
+    "record_id": "nuclei",
+    "name": "Nuclei",
+    "source_type": "documentation",
+    "url": "https://docs.projectdiscovery.io/tools/nuclei/overview",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nuclei-download",
+    "record_id": "nuclei",
+    "name": "Nuclei",
+    "source_type": "download",
+    "url": "https://github.com/projectdiscovery/nuclei/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-official_website",
+    "record_id": "owasp",
+    "name": "OWASP",
+    "source_type": "official_website",
+    "url": "https://owasp.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-documentation",
+    "record_id": "owasp",
+    "name": "OWASP",
+    "source_type": "documentation",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "metasploit-framework-official_website",
+    "record_id": "metasploit-framework",
+    "name": "Metasploit Framework",
+    "source_type": "official_website",
+    "url": "https://www.metasploit.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "metasploit-framework-repository",
+    "record_id": "metasploit-framework",
+    "name": "Metasploit Framework",
+    "source_type": "repository",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "metasploit-framework-documentation",
+    "record_id": "metasploit-framework",
+    "name": "Metasploit Framework",
+    "source_type": "documentation",
+    "url": "https://docs.metasploit.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "metasploit-framework-download",
+    "record_id": "metasploit-framework",
+    "name": "Metasploit Framework",
+    "source_type": "download",
+    "url": "https://github.com/rapid7/metasploit-framework/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "greenbone-openvas-official_website",
+    "record_id": "greenbone-openvas",
+    "name": "Greenbone / OpenVAS",
+    "source_type": "official_website",
+    "url": "https://greenbone.github.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "greenbone-openvas-repository",
+    "record_id": "greenbone-openvas",
+    "name": "Greenbone / OpenVAS",
+    "source_type": "repository",
+    "url": "https://github.com/greenbone/openvas-scanner",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "greenbone-openvas-documentation",
+    "record_id": "greenbone-openvas",
+    "name": "Greenbone / OpenVAS",
+    "source_type": "documentation",
+    "url": "https://greenbone.github.io/docs/latest/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "greenbone-openvas-download",
+    "record_id": "greenbone-openvas",
+    "name": "Greenbone / OpenVAS",
+    "source_type": "download",
+    "url": "https://greenbone.github.io/docs/latest/22.4/source-build/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nessus-official_website",
+    "record_id": "nessus",
+    "name": "Nessus",
+    "source_type": "official_website",
+    "url": "https://www.tenable.com/products/nessus",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nessus-documentation",
+    "record_id": "nessus",
+    "name": "Nessus",
+    "source_type": "documentation",
+    "url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nessus-download",
+    "record_id": "nessus",
+    "name": "Nessus",
+    "source_type": "download",
+    "url": "https://www.tenable.com/downloads/nessus",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "exploit-db-official_website",
+    "record_id": "exploit-db",
+    "name": "Exploit Database",
+    "source_type": "official_website",
+    "url": "https://www.exploit-db.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "exploit-db-repository",
+    "record_id": "exploit-db",
+    "name": "Exploit Database",
+    "source_type": "repository",
+    "url": "https://github.com/offensive-security/exploitdb",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "exploit-db-documentation",
+    "record_id": "exploit-db",
+    "name": "Exploit Database",
+    "source_type": "documentation",
+    "url": "https://www.exploit-db.com/documentation/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "searchsploit-official_website",
+    "record_id": "searchsploit",
+    "name": "SearchSploit",
+    "source_type": "official_website",
+    "url": "https://www.exploit-db.com/searchsploit",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "searchsploit-repository",
+    "record_id": "searchsploit",
+    "name": "SearchSploit",
+    "source_type": "repository",
+    "url": "https://github.com/Exploitables/searchsploit",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "searchsploit-documentation",
+    "record_id": "searchsploit",
+    "name": "SearchSploit",
+    "source_type": "documentation",
+    "url": "https://www.exploit-db.com/searchsploit",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "maltego-official_website",
+    "record_id": "maltego",
+    "name": "Maltego",
+    "source_type": "official_website",
+    "url": "https://www.maltego.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "maltego-documentation",
+    "record_id": "maltego",
+    "name": "Maltego",
+    "source_type": "documentation",
+    "url": "https://docs.maltego.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "maltego-download",
+    "record_id": "maltego",
+    "name": "Maltego",
+    "source_type": "download",
+    "url": "https://www.maltego.com/downloads/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "spiderfoot-official_website",
+    "record_id": "spiderfoot",
+    "name": "SpiderFoot",
+    "source_type": "official_website",
+    "url": "https://www.spiderfoot.net/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "spiderfoot-repository",
+    "record_id": "spiderfoot",
+    "name": "SpiderFoot",
+    "source_type": "repository",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "spiderfoot-documentation",
+    "record_id": "spiderfoot",
+    "name": "SpiderFoot",
+    "source_type": "documentation",
+    "url": "https://github.com/smicallef/spiderfoot/wiki",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "spiderfoot-download",
+    "record_id": "spiderfoot",
+    "name": "SpiderFoot",
+    "source_type": "download",
+    "url": "https://github.com/smicallef/spiderfoot/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "theharvester-official_website",
+    "record_id": "theharvester",
+    "name": "theHarvester",
+    "source_type": "official_website",
+    "url": "https://github.com/laramies/theHarvester",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "theharvester-repository",
+    "record_id": "theharvester",
+    "name": "theHarvester",
+    "source_type": "repository",
+    "url": "https://github.com/laramies/theHarvester",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "theharvester-documentation",
+    "record_id": "theharvester",
+    "name": "theHarvester",
+    "source_type": "documentation",
+    "url": "https://github.com/laramies/theHarvester/wiki",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-amass-official_website",
+    "record_id": "owasp-amass",
+    "name": "OWASP Amass",
+    "source_type": "official_website",
+    "url": "https://owasp.org/www-project-amass/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-amass-repository",
+    "record_id": "owasp-amass",
+    "name": "OWASP Amass",
+    "source_type": "repository",
+    "url": "https://github.com/owasp-amass/amass",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "owasp-amass-documentation",
+    "record_id": "owasp-amass",
+    "name": "OWASP Amass",
+    "source_type": "documentation",
+    "url": "https://github.com/owasp-amass/amass/wiki",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "osint-framework-official_website",
+    "record_id": "osint-framework",
+    "name": "OSINT Framework",
+    "source_type": "official_website",
+    "url": "https://osintframework.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "osint-framework-repository",
+    "record_id": "osint-framework",
+    "name": "OSINT Framework",
+    "source_type": "repository",
+    "url": "https://github.com/lockfale/OSINT-Framework",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "osint-framework-documentation",
+    "record_id": "osint-framework",
+    "name": "OSINT Framework",
+    "source_type": "documentation",
+    "url": "https://github.com/lockfale/OSINT-Framework",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "autopsy-official_website",
+    "record_id": "autopsy",
+    "name": "Autopsy",
+    "source_type": "official_website",
+    "url": "https://www.autopsy.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "autopsy-repository",
+    "record_id": "autopsy",
+    "name": "Autopsy",
+    "source_type": "repository",
+    "url": "https://github.com/sleuthkit/autopsy",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "autopsy-documentation",
+    "record_id": "autopsy",
+    "name": "Autopsy",
+    "source_type": "documentation",
+    "url": "https://sleuthkit.org/autopsy/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "autopsy-download",
+    "record_id": "autopsy",
+    "name": "Autopsy",
+    "source_type": "download",
+    "url": "https://www.autopsy.com/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "volatility3-official_website",
+    "record_id": "volatility3",
+    "name": "Volatility 3",
+    "source_type": "official_website",
+    "url": "https://volatilityfoundation.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "volatility3-repository",
+    "record_id": "volatility3",
+    "name": "Volatility 3",
+    "source_type": "repository",
+    "url": "https://github.com/volatilityfoundation/volatility3",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "volatility3-documentation",
+    "record_id": "volatility3",
+    "name": "Volatility 3",
+    "source_type": "documentation",
+    "url": "https://volatility3.readthedocs.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "volatility3-download",
+    "record_id": "volatility3",
+    "name": "Volatility 3",
+    "source_type": "download",
+    "url": "https://github.com/volatilityfoundation/volatility3/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sleuth-kit-official_website",
+    "record_id": "sleuth-kit",
+    "name": "The Sleuth Kit",
+    "source_type": "official_website",
+    "url": "https://www.sleuthkit.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sleuth-kit-repository",
+    "record_id": "sleuth-kit",
+    "name": "The Sleuth Kit",
+    "source_type": "repository",
+    "url": "https://github.com/sleuthkit/sleuthkit",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sleuth-kit-documentation",
+    "record_id": "sleuth-kit",
+    "name": "The Sleuth Kit",
+    "source_type": "documentation",
+    "url": "https://www.sleuthkit.org/sleuthkit/docs.php",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sleuth-kit-download",
+    "record_id": "sleuth-kit",
+    "name": "The Sleuth Kit",
+    "source_type": "download",
+    "url": "https://github.com/sleuthkit/sleuthkit/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "velociraptor-official_website",
+    "record_id": "velociraptor",
+    "name": "Velociraptor",
+    "source_type": "official_website",
+    "url": "https://docs.velociraptor.app/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "velociraptor-repository",
+    "record_id": "velociraptor",
+    "name": "Velociraptor",
+    "source_type": "repository",
+    "url": "https://github.com/Velocidex/velociraptor",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "velociraptor-documentation",
+    "record_id": "velociraptor",
+    "name": "Velociraptor",
+    "source_type": "documentation",
+    "url": "https://docs.velociraptor.app/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "velociraptor-download",
+    "record_id": "velociraptor",
+    "name": "Velociraptor",
+    "source_type": "download",
+    "url": "https://github.com/Velocidex/velociraptor/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "yara-official_website",
+    "record_id": "yara",
+    "name": "YARA",
+    "source_type": "official_website",
+    "url": "https://virustotal.github.io/yara/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "yara-repository",
+    "record_id": "yara",
+    "name": "YARA",
+    "source_type": "repository",
+    "url": "https://github.com/VirusTotal/yara",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "yara-documentation",
+    "record_id": "yara",
+    "name": "YARA",
+    "source_type": "documentation",
+    "url": "https://yara.readthedocs.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "yara-download",
+    "record_id": "yara",
+    "name": "YARA",
+    "source_type": "download",
+    "url": "https://github.com/VirusTotal/yara/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "ghidra-official_website",
+    "record_id": "ghidra",
+    "name": "Ghidra",
+    "source_type": "official_website",
+    "url": "https://ghidra-sre.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "ghidra-repository",
+    "record_id": "ghidra",
+    "name": "Ghidra",
+    "source_type": "repository",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "ghidra-documentation",
+    "record_id": "ghidra",
+    "name": "Ghidra",
+    "source_type": "documentation",
+    "url": "https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Documentation",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "ghidra-download",
+    "record_id": "ghidra",
+    "name": "Ghidra",
+    "source_type": "download",
+    "url": "https://github.com/NationalSecurityAgency/ghidra/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cape-sandbox-official_website",
+    "record_id": "cape-sandbox",
+    "name": "CAPE Sandbox",
+    "source_type": "official_website",
+    "url": "https://capev2.readthedocs.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cape-sandbox-repository",
+    "record_id": "cape-sandbox",
+    "name": "CAPE Sandbox",
+    "source_type": "repository",
+    "url": "https://github.com/kevoreilly/CAPEv2",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cape-sandbox-documentation",
+    "record_id": "cape-sandbox",
+    "name": "CAPE Sandbox",
+    "source_type": "documentation",
+    "url": "https://capev2.readthedocs.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cape-sandbox-download",
+    "record_id": "cape-sandbox",
+    "name": "CAPE Sandbox",
+    "source_type": "download",
+    "url": "https://github.com/kevoreilly/CAPEv2/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cuckoo-sandbox-official_website",
+    "record_id": "cuckoo-sandbox",
+    "name": "Cuckoo Sandbox",
+    "source_type": "official_website",
+    "url": "https://cuckoosandbox.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cuckoo-sandbox-repository",
+    "record_id": "cuckoo-sandbox",
+    "name": "Cuckoo Sandbox",
+    "source_type": "repository",
+    "url": "https://github.com/cuckoosandbox/cuckoo",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cuckoo-sandbox-documentation",
+    "record_id": "cuckoo-sandbox",
+    "name": "Cuckoo Sandbox",
+    "source_type": "documentation",
+    "url": "https://cuckoo.readthedocs.io/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cuckoo-sandbox-download",
+    "record_id": "cuckoo-sandbox",
+    "name": "Cuckoo Sandbox",
+    "source_type": "download",
+    "url": "https://github.com/cuckoosandbox/cuckoo/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "virustotal-official_website",
+    "record_id": "virustotal",
+    "name": "VirusTotal",
+    "source_type": "official_website",
+    "url": "https://www.virustotal.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "virustotal-documentation",
+    "record_id": "virustotal",
+    "name": "VirusTotal",
+    "source_type": "documentation",
+    "url": "https://docs.virustotal.com/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "virustotal-download",
+    "record_id": "virustotal",
+    "name": "VirusTotal",
+    "source_type": "download",
+    "url": "https://www.virustotal.com/gui/join-us",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "openssl-official_website",
+    "record_id": "openssl",
+    "name": "OpenSSL",
+    "source_type": "official_website",
+    "url": "https://www.openssl.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "openssl-repository",
+    "record_id": "openssl",
+    "name": "OpenSSL",
+    "source_type": "repository",
+    "url": "https://github.com/openssl/openssl",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "openssl-documentation",
+    "record_id": "openssl",
+    "name": "OpenSSL",
+    "source_type": "documentation",
+    "url": "https://docs.openssl.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "openssl-download",
+    "record_id": "openssl",
+    "name": "OpenSSL",
+    "source_type": "download",
+    "url": "https://www.openssl.org/source/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "gnupg-official_website",
+    "record_id": "gnupg",
+    "name": "GnuPG",
+    "source_type": "official_website",
+    "url": "https://gnupg.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "gnupg-repository",
+    "record_id": "gnupg",
+    "name": "GnuPG",
+    "source_type": "repository",
+    "url": "https://github.com/gpg/gnupg",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "gnupg-documentation",
+    "record_id": "gnupg",
+    "name": "GnuPG",
+    "source_type": "documentation",
+    "url": "https://gnupg.org/documentation/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "gnupg-download",
+    "record_id": "gnupg",
+    "name": "GnuPG",
+    "source_type": "download",
+    "url": "https://gnupg.org/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "veracrypt-official_website",
+    "record_id": "veracrypt",
+    "name": "VeraCrypt",
+    "source_type": "official_website",
+    "url": "https://www.veracrypt.fr/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "veracrypt-repository",
+    "record_id": "veracrypt",
+    "name": "VeraCrypt",
+    "source_type": "repository",
+    "url": "https://github.com/veracrypt/VeraCrypt",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "veracrypt-documentation",
+    "record_id": "veracrypt",
+    "name": "VeraCrypt",
+    "source_type": "documentation",
+    "url": "https://www.veracrypt.fr/en/Documentation.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "veracrypt-download",
+    "record_id": "veracrypt",
+    "name": "VeraCrypt",
+    "source_type": "download",
+    "url": "https://www.veracrypt.fr/en/Downloads.html",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "keepassxc-official_website",
+    "record_id": "keepassxc",
+    "name": "KeePassXC",
+    "source_type": "official_website",
+    "url": "https://keepassxc.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "keepassxc-repository",
+    "record_id": "keepassxc",
+    "name": "KeePassXC",
+    "source_type": "repository",
+    "url": "https://github.com/keepassxreboot/keepassxc",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "keepassxc-documentation",
+    "record_id": "keepassxc",
+    "name": "KeePassXC",
+    "source_type": "documentation",
+    "url": "https://keepassxc.org/docs/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "keepassxc-download",
+    "record_id": "keepassxc",
+    "name": "KeePassXC",
+    "source_type": "download",
+    "url": "https://keepassxc.org/download/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "lynis-official_website",
+    "record_id": "lynis",
+    "name": "Lynis",
+    "source_type": "official_website",
+    "url": "https://cisofy.com/lynis/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "lynis-repository",
+    "record_id": "lynis",
+    "name": "Lynis",
+    "source_type": "repository",
+    "url": "https://github.com/CISOfy/lynis",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "lynis-documentation",
+    "record_id": "lynis",
+    "name": "Lynis",
+    "source_type": "documentation",
+    "url": "https://cisofy.com/documentation/lynis/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "lynis-download",
+    "record_id": "lynis",
+    "name": "Lynis",
+    "source_type": "download",
+    "url": "https://github.com/CISOfy/lynis/releases",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "mitre-attack-official_website",
+    "record_id": "mitre-attack",
+    "name": "MITRE ATT&CK",
+    "source_type": "official_website",
+    "url": "https://attack.mitre.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "mitre-attack-repository",
+    "record_id": "mitre-attack",
+    "name": "MITRE ATT&CK",
+    "source_type": "repository",
+    "url": "https://github.com/mitre-attack/attack-stix-data",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "mitre-attack-documentation",
+    "record_id": "mitre-attack",
+    "name": "MITRE ATT&CK",
+    "source_type": "documentation",
+    "url": "https://attack.mitre.org/resources/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "mitre-attack-download",
+    "record_id": "mitre-attack",
+    "name": "MITRE ATT&CK",
+    "source_type": "download",
+    "url": "https://attack.mitre.org/resources/attack-data-and-tools/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nist-cybersecurity-official_website",
+    "record_id": "nist-cybersecurity",
+    "name": "NIST Cybersecurity",
+    "source_type": "official_website",
+    "url": "https://www.nist.gov/cybersecurity",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nist-cybersecurity-repository",
+    "record_id": "nist-cybersecurity",
+    "name": "NIST Cybersecurity",
+    "source_type": "repository",
+    "url": "https://github.com/usnistgov",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cve-official_website",
+    "record_id": "cve",
+    "name": "CVE",
+    "source_type": "official_website",
+    "url": "https://www.cve.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cve-repository",
+    "record_id": "cve",
+    "name": "CVE",
+    "source_type": "repository",
+    "url": "https://github.com/CVEProject/cve-schema",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cve-documentation",
+    "record_id": "cve",
+    "name": "CVE",
+    "source_type": "documentation",
+    "url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nvd-official_website",
+    "record_id": "nvd",
+    "name": "NVD",
+    "source_type": "official_website",
+    "url": "https://nvd.nist.gov/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nvd-repository",
+    "record_id": "nvd",
+    "name": "NVD",
+    "source_type": "repository",
+    "url": "https://github.com/usnistgov/nvdtools",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "nvd-documentation",
+    "record_id": "nvd",
+    "name": "NVD",
+    "source_type": "documentation",
+    "url": "https://nvd.nist.gov/developers",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cisa-kev-official_website",
+    "record_id": "cisa-kev",
+    "name": "CISA Known Exploited Vulnerabilities Catalog",
+    "source_type": "official_website",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cisa-kev-repository",
+    "record_id": "cisa-kev",
+    "name": "CISA Known Exploited Vulnerabilities Catalog",
+    "source_type": "repository",
+    "url": "https://github.com/cisagov/kev-data",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "cisa-kev-documentation",
+    "record_id": "cisa-kev",
+    "name": "CISA Known Exploited Vulnerabilities Catalog",
+    "source_type": "documentation",
+    "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sans-official_website",
+    "record_id": "sans",
+    "name": "SANS",
+    "source_type": "official_website",
+    "url": "https://www.sans.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "sans-documentation",
+    "record_id": "sans",
+    "name": "SANS",
+    "source_type": "documentation",
+    "url": "https://www.sans.org/white-papers/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "secarsenal-official_website",
+    "record_id": "secarsenal",
+    "name": "SecArsenal",
+    "source_type": "official_website",
+    "url": "https://secarsenal.org/",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "github-topic-cybersecurity-official_website",
+    "record_id": "github-topic-cybersecurity",
+    "name": "GitHub topic: cybersecurity",
+    "source_type": "official_website",
+    "url": "https://github.com/topics/cybersecurity",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "github-topic-security-tools-official_website",
+    "record_id": "github-topic-security-tools",
+    "name": "GitHub topic: security-tools",
+    "source_type": "official_website",
+    "url": "https://github.com/topics/security-tools",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "github-topic-digital-forensics-official_website",
+    "record_id": "github-topic-digital-forensics",
+    "name": "GitHub topic: digital-forensics",
+    "source_type": "official_website",
+    "url": "https://github.com/topics/digital-forensics",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "github-topic-malware-analysis-official_website",
+    "record_id": "github-topic-malware-analysis",
+    "name": "GitHub topic: malware-analysis",
+    "source_type": "official_website",
+    "url": "https://github.com/topics/malware-analysis",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "github-topic-network-security-official_website",
+    "record_id": "github-topic-network-security",
+    "name": "GitHub topic: network-security",
+    "source_type": "official_website",
+    "url": "https://github.com/topics/network-security",
+    "verification_status": "pending_live_check"
+  },
+  {
+    "source_id": "prowler-official_website",
+    "record_id": "prowler",
+    "name": "Prowler",
+    "source_type": "official_website",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "prowler-repository",
+    "record_id": "prowler",
+    "name": "Prowler",
+    "source_type": "repository",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "mobsf-official_website",
+    "record_id": "mobsf",
+    "name": "MobSF",
+    "source_type": "official_website",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "mobsf-repository",
+    "record_id": "mobsf",
+    "name": "MobSF",
+    "source_type": "repository",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "kismet-official_website",
+    "record_id": "kismet",
+    "name": "Kismet",
+    "source_type": "official_website",
+    "url": "https://github.com/kismetwireless/kismet",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "kismet-repository",
+    "record_id": "kismet",
+    "name": "Kismet",
+    "source_type": "repository",
+    "url": "https://github.com/kismetwireless/kismet",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "osquery-official_website",
+    "record_id": "osquery",
+    "name": "osquery",
+    "source_type": "official_website",
+    "url": "https://osquery.io/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "osquery-repository",
+    "record_id": "osquery",
+    "name": "osquery",
+    "source_type": "repository",
+    "url": "https://github.com/osquery/osquery",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "wazuh-official_website",
+    "record_id": "wazuh",
+    "name": "Wazuh",
+    "source_type": "official_website",
+    "url": "https://wazuh.com/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "wazuh-repository",
+    "record_id": "wazuh",
+    "name": "Wazuh",
+    "source_type": "repository",
+    "url": "https://github.com/wazuh/wazuh",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "shuffle-official_website",
+    "record_id": "shuffle",
+    "name": "Shuffle",
+    "source_type": "official_website",
+    "url": "https://shuffler.io/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "shuffle-repository",
+    "record_id": "shuffle",
+    "name": "Shuffle",
+    "source_type": "repository",
+    "url": "https://github.com/Shuffle/Shuffle",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "garak-official_website",
+    "record_id": "garak",
+    "name": "garak",
+    "source_type": "official_website",
+    "url": "https://garak.ai/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "garak-repository",
+    "record_id": "garak",
+    "name": "garak",
+    "source_type": "repository",
+    "url": "https://github.com/NVIDIA/garak",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "pgaudit-official_website",
+    "record_id": "pgaudit",
+    "name": "pgAudit",
+    "source_type": "official_website",
+    "url": "https://www.pgaudit.org/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "pgaudit-repository",
+    "record_id": "pgaudit",
+    "name": "pgAudit",
+    "source_type": "repository",
+    "url": "https://github.com/pgaudit/pgaudit",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "trivy-official_website",
+    "record_id": "trivy",
+    "name": "Trivy",
+    "source_type": "official_website",
+    "url": "https://trivy.dev/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "trivy-repository",
+    "record_id": "trivy",
+    "name": "Trivy",
+    "source_type": "repository",
+    "url": "https://github.com/aquasecurity/trivy",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "keycloak-official_website",
+    "record_id": "keycloak",
+    "name": "Keycloak",
+    "source_type": "official_website",
+    "url": "https://www.keycloak.org/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "keycloak-repository",
+    "record_id": "keycloak",
+    "name": "Keycloak",
+    "source_type": "repository",
+    "url": "https://github.com/keycloak/keycloak",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "scorecard-official_website",
+    "record_id": "scorecard",
+    "name": "OpenSSF Scorecard",
+    "source_type": "official_website",
+    "url": "https://securityscorecards.dev/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "scorecard-repository",
+    "record_id": "scorecard",
+    "name": "OpenSSF Scorecard",
+    "source_type": "repository",
+    "url": "https://github.com/ossf/scorecard",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "crapi-official_website",
+    "record_id": "crapi",
+    "name": "OWASP crAPI",
+    "source_type": "official_website",
+    "url": "https://github.com/OWASP/crAPI",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "crapi-repository",
+    "record_id": "crapi",
+    "name": "OWASP crAPI",
+    "source_type": "repository",
+    "url": "https://github.com/OWASP/crAPI",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "thehive-official_website",
+    "record_id": "thehive",
+    "name": "TheHive",
+    "source_type": "official_website",
+    "url": "https://thehive-project.org/",
+    "verification_status": "pending"
+  },
+  {
+    "source_id": "thehive-repository",
+    "record_id": "thehive",
+    "name": "TheHive",
+    "source_type": "repository",
+    "url": "https://github.com/TheHive-Project/TheHive",
+    "verification_status": "pending"
+  }
+]

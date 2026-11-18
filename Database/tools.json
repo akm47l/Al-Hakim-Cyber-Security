@@ -1,0 +1,3229 @@
+[
+  {
+    "id": "kali-linux",
+    "official_name": "Kali Linux",
+    "aliases": [],
+    "record_type": "distribution",
+    "category_ids": [
+      "01-security-distributions"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.kali.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://gitlab.com/kalilinux",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.kali.org/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.kali.org/get-kali/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "parrot-security",
+    "official_name": "Parrot Security",
+    "aliases": [],
+    "record_type": "distribution",
+    "category_ids": [
+      "01-security-distributions"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://parrotsec.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/ParrotSec",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://parrotsec.org/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://parrotsec.org/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "blackarch-linux",
+    "official_name": "BlackArch Linux",
+    "aliases": [],
+    "record_type": "distribution",
+    "category_ids": [
+      "01-security-distributions"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://blackarch.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/BlackArch",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://blackarch.org/guide.html",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://blackarch.org/download.html",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "security-onion",
+    "official_name": "Security Onion",
+    "aliases": [],
+    "record_type": "distribution",
+    "category_ids": [
+      "01-security-distributions"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://securityonionsolutions.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/Security-Onion-Solutions/securityonion",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.securityonion.net/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://securityonionsolutions.com/software/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "remnux",
+    "official_name": "REMnux",
+    "aliases": [],
+    "record_type": "distribution",
+    "category_ids": [
+      "01-security-distributions",
+      "07-malware-analysis"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://remnux.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/REMnux",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.remnux.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://remnux.org/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "wireshark",
+    "official_name": "Wireshark",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "02-network-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.wireshark.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/wireshark/wireshark",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.wireshark.org/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.wireshark.org/download.html",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nmap",
+    "official_name": "Nmap",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "02-network-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://nmap.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/nmap/nmap",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://nmap.org/book/man.html",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://nmap.org/download.html",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "zeek",
+    "official_name": "Zeek",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "02-network-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://zeek.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/zeek/zeek",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.zeek.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://zeek.org/get-zeek/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "suricata",
+    "official_name": "Suricata",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "02-network-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://suricata.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/OISF/suricata",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.suricata.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://suricata.io/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "owasp-zap",
+    "official_name": "OWASP ZAP",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "03-web-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.zaproxy.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/zaproxy/zaproxy",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.zaproxy.org/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.zaproxy.org/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "burp-suite",
+    "official_name": "Burp Suite",
+    "aliases": [],
+    "record_type": "commercial_product",
+    "category_ids": [
+      "03-web-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://portswigger.net/burp",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://portswigger.net/burp/documentation",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://portswigger.net/burp/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nikto",
+    "official_name": "Nikto",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "03-web-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://cirt.net/Nikto2",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/sullo/nikto",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/sullo/nikto/wiki",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/sullo/nikto",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nuclei",
+    "official_name": "Nuclei",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "03-web-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://projectdiscovery.io/nuclei",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/projectdiscovery/nuclei",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.projectdiscovery.io/tools/nuclei/overview",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/projectdiscovery/nuclei/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "owasp",
+    "official_name": "OWASP",
+    "aliases": [],
+    "record_type": "organization",
+    "category_ids": [
+      "03-web-security",
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://owasp.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://owasp.org/www-project-top-ten/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "metasploit-framework",
+    "official_name": "Metasploit Framework",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "04-vulnerability-assessment"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.metasploit.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/rapid7/metasploit-framework",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.metasploit.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/rapid7/metasploit-framework/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "greenbone-openvas",
+    "official_name": "Greenbone / OpenVAS",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "04-vulnerability-assessment"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://greenbone.github.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/greenbone/openvas-scanner",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://greenbone.github.io/docs/latest/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://greenbone.github.io/docs/latest/22.4/source-build/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nessus",
+    "official_name": "Nessus",
+    "aliases": [],
+    "record_type": "commercial_product",
+    "category_ids": [
+      "04-vulnerability-assessment"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.tenable.com/products/nessus",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.tenable.com/nessus/Content/GettingStarted.htm",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.tenable.com/downloads/nessus",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "exploit-db",
+    "official_name": "Exploit Database",
+    "aliases": [],
+    "record_type": "database",
+    "category_ids": [
+      "04-vulnerability-assessment",
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.exploit-db.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/offensive-security/exploitdb",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.exploit-db.com/documentation/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "searchsploit",
+    "official_name": "SearchSploit",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "04-vulnerability-assessment"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.exploit-db.com/searchsploit",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/Exploitables/searchsploit",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.exploit-db.com/searchsploit",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "maltego",
+    "official_name": "Maltego",
+    "aliases": [],
+    "record_type": "commercial_product",
+    "category_ids": [
+      "05-osint"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.maltego.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.maltego.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.maltego.com/downloads/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "spiderfoot",
+    "official_name": "SpiderFoot",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "05-osint"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.spiderfoot.net/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/smicallef/spiderfoot",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/smicallef/spiderfoot/wiki",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/smicallef/spiderfoot/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "theharvester",
+    "official_name": "theHarvester",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "05-osint"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/laramies/theHarvester",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/laramies/theHarvester",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/laramies/theHarvester/wiki",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "owasp-amass",
+    "official_name": "OWASP Amass",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "05-osint"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://owasp.org/www-project-amass/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/owasp-amass/amass",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/owasp-amass/amass/wiki",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "osint-framework",
+    "official_name": "OSINT Framework",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "05-osint"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://osintframework.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/lockfale/OSINT-Framework",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/lockfale/OSINT-Framework",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "autopsy",
+    "official_name": "Autopsy",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.autopsy.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/sleuthkit/autopsy",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://sleuthkit.org/autopsy/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.autopsy.com/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "volatility3",
+    "official_name": "Volatility 3",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://volatilityfoundation.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/volatilityfoundation/volatility3",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://volatility3.readthedocs.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/volatilityfoundation/volatility3/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "sleuth-kit",
+    "official_name": "The Sleuth Kit",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.sleuthkit.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/sleuthkit/sleuthkit",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.sleuthkit.org/sleuthkit/docs.php",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/sleuthkit/sleuthkit/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "velociraptor",
+    "official_name": "Velociraptor",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://docs.velociraptor.app/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/Velocidex/velociraptor",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.velociraptor.app/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/Velocidex/velociraptor/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "yara",
+    "official_name": "YARA",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics",
+      "07-malware-analysis"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://virustotal.github.io/yara/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/VirusTotal/yara",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://yara.readthedocs.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/VirusTotal/yara/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "ghidra",
+    "official_name": "Ghidra",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "07-malware-analysis"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://ghidra-sre.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Documentation",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/NationalSecurityAgency/ghidra/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "cape-sandbox",
+    "official_name": "CAPE Sandbox",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "07-malware-analysis"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://capev2.readthedocs.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/kevoreilly/CAPEv2",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://capev2.readthedocs.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/kevoreilly/CAPEv2/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "cuckoo-sandbox",
+    "official_name": "Cuckoo Sandbox",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "07-malware-analysis"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://cuckoosandbox.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/cuckoosandbox/cuckoo",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://cuckoo.readthedocs.io/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/cuckoosandbox/cuckoo/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "virustotal",
+    "official_name": "VirusTotal",
+    "aliases": [],
+    "record_type": "service",
+    "category_ids": [
+      "07-malware-analysis",
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.virustotal.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.virustotal.com/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.virustotal.com/gui/join-us",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "openssl",
+    "official_name": "OpenSSL",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "08-cryptography"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.openssl.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/openssl/openssl",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://docs.openssl.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.openssl.org/source/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "gnupg",
+    "official_name": "GnuPG",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "08-cryptography"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://gnupg.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/gpg/gnupg",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://gnupg.org/documentation/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://gnupg.org/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "veracrypt",
+    "official_name": "VeraCrypt",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "08-cryptography"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.veracrypt.fr/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/veracrypt/VeraCrypt",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.veracrypt.fr/en/Documentation.html",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://www.veracrypt.fr/en/Downloads.html",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "keepassxc",
+    "official_name": "KeePassXC",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "08-cryptography"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://keepassxc.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/keepassxreboot/keepassxc",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://keepassxc.org/docs/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://keepassxc.org/download/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "lynis",
+    "official_name": "Lynis",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "08-cryptography",
+      "13-system-defense"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://cisofy.com/lynis/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/CISOfy/lynis",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://cisofy.com/documentation/lynis/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://github.com/CISOfy/lynis/releases",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "mitre-attack",
+    "official_name": "MITRE ATT&CK",
+    "aliases": [],
+    "record_type": "knowledge_base",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://attack.mitre.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/mitre-attack/attack-stix-data",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://attack.mitre.org/resources/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "download",
+        "url": "https://attack.mitre.org/resources/attack-data-and-tools/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nist-cybersecurity",
+    "official_name": "NIST Cybersecurity",
+    "aliases": [],
+    "record_type": "standards_body",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.nist.gov/cybersecurity",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/usnistgov",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "cve",
+    "official_name": "CVE",
+    "aliases": [],
+    "record_type": "database",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.cve.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/CVEProject/cve-schema",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.cve.org/ResourcesSupport/AllResources/CNAs",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "nvd",
+    "official_name": "NVD",
+    "aliases": [],
+    "record_type": "database",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://nvd.nist.gov/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/usnistgov/nvdtools",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://nvd.nist.gov/developers",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "cisa-kev",
+    "official_name": "CISA Known Exploited Vulnerabilities Catalog",
+    "aliases": [],
+    "record_type": "database",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/cisagov/kev-data",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "free",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "sans",
+    "official_name": "SANS",
+    "aliases": [],
+    "record_type": "training_provider",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.sans.org/",
+        "verification_status": "user_supplied_or_seeded"
+      },
+      {
+        "role": "documentation",
+        "url": "https://www.sans.org/white-papers/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "mixed",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "secarsenal",
+    "official_name": "SecArsenal",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://secarsenal.org/",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "github-topic-cybersecurity",
+    "official_name": "GitHub topic: cybersecurity",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/topics/cybersecurity",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "github-topic-security-tools",
+    "official_name": "GitHub topic: security-tools",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/topics/security-tools",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "github-topic-digital-forensics",
+    "official_name": "GitHub topic: digital-forensics",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/topics/digital-forensics",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "github-topic-malware-analysis",
+    "official_name": "GitHub topic: malware-analysis",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/topics/malware-analysis",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "github-topic-network-security",
+    "official_name": "GitHub topic: network-security",
+    "aliases": [],
+    "record_type": "directory",
+    "category_ids": [
+      "09-security-standards"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/topics/network-security",
+        "verification_status": "user_supplied_or_seeded"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "prowler",
+    "official_name": "Prowler",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "10-cloud-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/prowler-cloud/prowler",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/prowler-cloud/prowler",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "mobsf",
+    "official_name": "MobSF",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "11-mobile-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "kismet",
+    "official_name": "Kismet",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "12-wireless-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/kismetwireless/kismet",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/kismetwireless/kismet",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "osquery",
+    "official_name": "osquery",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://osquery.io/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/osquery/osquery",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "wazuh",
+    "official_name": "Wazuh",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense",
+      "14-siem-soar"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://wazuh.com/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/wazuh/wazuh",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "shuffle",
+    "official_name": "Shuffle",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "14-siem-soar"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://shuffler.io/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/Shuffle/Shuffle",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "garak",
+    "official_name": "garak",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "15-ai-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://garak.ai/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/NVIDIA/garak",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "pgaudit",
+    "official_name": "pgAudit",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.pgaudit.org/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/pgaudit/pgaudit",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "trivy",
+    "official_name": "Trivy",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense",
+      "10-cloud-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://trivy.dev/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/aquasecurity/trivy",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "keycloak",
+    "official_name": "Keycloak",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://www.keycloak.org/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/keycloak/keycloak",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "scorecard",
+    "official_name": "OpenSSF Scorecard",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "13-system-defense"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://securityscorecards.dev/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/ossf/scorecard",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "crapi",
+    "official_name": "OWASP crAPI",
+    "aliases": [],
+    "record_type": "training_lab",
+    "category_ids": [
+      "03-web-security"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://github.com/OWASP/crAPI",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/OWASP/crAPI",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  },
+  {
+    "id": "thehive",
+    "official_name": "TheHive",
+    "aliases": [],
+    "record_type": "tool",
+    "category_ids": [
+      "06-digital-forensics",
+      "14-siem-soar"
+    ],
+    "description": "غير متوفر — بانتظار التحقق من المصدر الرسمي",
+    "security_classification": "غير متوفر — بانتظار التحقق",
+    "sources": [
+      {
+        "role": "official_website",
+        "url": "https://thehive-project.org/",
+        "verification_status": "pending"
+      },
+      {
+        "role": "repository",
+        "url": "https://github.com/TheHive-Project/TheHive",
+        "verification_status": "pending"
+      }
+    ],
+    "supported_operating_systems": "غير متوفر — بانتظار التحقق",
+    "requirements": "غير متوفر — بانتظار التحقق",
+    "programming_languages": "غير متوفر — بانتظار التحقق",
+    "project_status": "غير متوفر — بانتظار التحقق",
+    "license": "غير متوفر — بانتظار التحقق",
+    "pricing_status": "غير متوفر — بانتظار التحقق",
+    "official_installation": "غير متوفر — بانتظار التحقق",
+    "difficulty": "غير متوفر — بانتظار التحقق",
+    "authorized_uses": "يُستخدم فقط على أنظمة أو بيانات تملكها أو لديك تصريح صريح لاختبارها؛ ولا تُجرى عمليات على أهداف خارجية تلقائياً.",
+    "alternatives": "غير متوفر — بانتظار التحقق",
+    "upstream_metadata": {
+      "latest_release": "غير متوفر",
+      "latest_tag": "غير متوفر",
+      "last_repository_update": "غير متوفر",
+      "archived": "غير متوفر",
+      "spdx_license": "غير متوفر"
+    },
+    "verification": {
+      "status": "pending",
+      "checked_at": "غير متوفر",
+      "evidence_urls": [],
+      "notes": "لم يكتمل التحقق التفصيلي بعد."
+    }
+  }
+]
